@@ -112,19 +112,19 @@
     "url": "https://app.circleci.com/pipelines/github/tahoe-lafs/tahoe-lafs",
     "icon": "https://icons.duckduckgo.com/ip3/app.circleci.com.ico",
     "slug": "circle-ci",
-    "status": "down",
-    "uptime": "98.47%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "98.47%",
-    "uptimeMonth": "98.47%",
-    "uptimeYear": "98.47%",
-    "time": 131,
-    "timeDay": 131,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "31.37%",
+    "uptimeDay": "31.37%",
+    "uptimeWeek": "31.37%",
+    "uptimeMonth": "31.37%",
+    "uptimeYear": "31.37%",
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 14
     }
   },
   {
