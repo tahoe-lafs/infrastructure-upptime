@@ -13,7 +13,7 @@ sites:
   - name: GitLab
     url: https://gitlab.com/tahoe-lafs
   - name: CodeBerg
-    url: https://codeberg.com/tahoe-lafs
+    url: https://codeberg.org/tahoe-lafs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
