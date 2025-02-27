@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeberg.org.ico",
     "slug": "code-berg",
     "status": "up",
-    "uptime": "12.39%",
-    "uptimeDay": "12.39%",
-    "uptimeWeek": "12.39%",
-    "uptimeMonth": "12.39%",
-    "uptimeYear": "12.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1716,
     "timeDay": 1716,
     "timeWeek": 1716,
     "timeMonth": 1716,
     "timeYear": 1716,
-    "dailyMinutesDown": {
-      "2025-02-27": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
