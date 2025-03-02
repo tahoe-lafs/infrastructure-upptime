@@ -112,18 +112,20 @@
     "url": "https://app.circleci.com/pipelines/github/tahoe-lafs/tahoe-lafs",
     "icon": "https://icons.duckduckgo.com/ip3/app.circleci.com.ico",
     "slug": "circle-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 139,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
-    "dailyMinutesDown": {}
+    "time": 145,
+    "timeDay": 127,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
+    "dailyMinutesDown": {
+      "2025-03-02": 0
+    }
   },
   {
     "name": "Coveralls",
