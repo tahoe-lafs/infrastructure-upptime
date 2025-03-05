@@ -94,19 +94,19 @@
     "url": "https://codeberg.org/tahoe-lafs",
     "icon": "https://icons.duckduckgo.com/ip3/codeberg.org.ico",
     "slug": "code-berg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2133,
-    "timeDay": 2833,
-    "timeWeek": 2133,
-    "timeMonth": 2133,
-    "timeYear": 2133,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2171,
+    "timeDay": 2763,
+    "timeWeek": 2171,
+    "timeMonth": 2171,
+    "timeYear": 2171,
     "dailyMinutesDown": {
-      "2025-03-05": 0
+      "2025-03-05": 8
     }
   },
   {
