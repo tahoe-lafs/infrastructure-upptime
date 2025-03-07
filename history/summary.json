@@ -4,18 +4,20 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2037,
-    "timeDay": 5786,
-    "timeWeek": 2705,
-    "timeMonth": 2037,
-    "timeYear": 2037,
-    "dailyMinutesDown": {}
+    "time": 1992,
+    "timeDay": 3576,
+    "timeWeek": 2537,
+    "timeMonth": 1992,
+    "timeYear": 1992,
+    "dailyMinutesDown": {
+      "2025-03-07": 1
+    }
   },
   {
     "name": "Tickets",
