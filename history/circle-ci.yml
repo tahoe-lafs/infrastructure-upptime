@@ -1,7 +1,7 @@
 url: https://app.circleci.com/pipelines/github/tahoe-lafs/tahoe-lafs
-status: down
-code: 403
-responseTime: 97
-lastUpdated: 2025-03-07T02:05:36.245Z
+status: up
+code: 200
+responseTime: 78
+lastUpdated: 2025-03-07T02:37:10.137Z
 startTime: 2025-02-27T10:10:28.362Z
 generator: Upptime <https://github.com/upptime/upptime>
