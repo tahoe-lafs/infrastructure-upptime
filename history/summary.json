@@ -100,9 +100,9 @@
     "url": "https://codeberg.org/tahoe-lafs",
     "icon": "https://icons.duckduckgo.com/ip3/codeberg.org.ico",
     "slug": "code-berg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 2337,
     "timeMonth": 2161,
     "timeYear": 2161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-10": 0
+    }
   },
   {
     "name": "CircleCI",
@@ -119,14 +121,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.circleci.com.ico",
     "slug": "circle-ci",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 138,
     "timeDay": 131,
-    "timeWeek": 134,
+    "timeWeek": 137,
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
