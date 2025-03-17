@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 4662,
-    "timeDay": 7677,
-    "timeWeek": 6885,
-    "timeMonth": 4662,
-    "timeYear": 4662,
+    "time": 4599,
+    "timeDay": 2525,
+    "timeWeek": 6990,
+    "timeMonth": 4599,
+    "timeYear": 4599,
     "dailyMinutesDown": {
       "2025-03-13": 17,
       "2025-03-07": 31
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 3794,
-    "timeDay": 6980,
-    "timeWeek": 5001,
-    "timeMonth": 3794,
-    "timeYear": 3794,
+    "time": 3752,
+    "timeDay": 2460,
+    "timeWeek": 5090,
+    "timeMonth": 3752,
+    "timeYear": 3752,
     "dailyMinutesDown": {
       "2025-03-15": 26,
       "2025-03-07": 15
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 3515,
-    "timeDay": 5584,
-    "timeWeek": 4514,
-    "timeMonth": 3515,
-    "timeYear": 3515,
+    "time": 3443,
+    "timeDay": 751,
+    "timeWeek": 4539,
+    "timeMonth": 3443,
+    "timeYear": 3443,
     "dailyMinutesDown": {
       "2025-03-07": 15
     }
@@ -66,19 +66,19 @@
     "url": "https://github.com/tahoe-lafs",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 4810,
-    "timeWeek": 1549,
-    "timeMonth": 805,
-    "timeYear": 805,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 793,
+    "timeDay": 4876,
+    "timeWeek": 1568,
+    "timeMonth": 793,
+    "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-03-17": 0
+      "2025-03-17": 8
     }
   },
   {
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 262,
-    "timeWeek": 273,
+    "timeDay": 283,
+    "timeWeek": 270,
     "timeMonth": 277,
     "timeYear": 277,
     "dailyMinutesDown": {}
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 4496,
-    "timeDay": 17090,
-    "timeWeek": 7355,
-    "timeMonth": 4496,
-    "timeYear": 4496,
+    "time": 4399,
+    "timeDay": 9437,
+    "timeWeek": 7272,
+    "timeMonth": 4399,
+    "timeYear": 4399,
     "dailyMinutesDown": {
       "2025-03-10": 15
     }
@@ -132,7 +132,7 @@
     "uptimeYear": "99.23%",
     "time": 131,
     "timeDay": 142,
-    "timeWeek": 128,
+    "timeWeek": 130,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 121,
-    "timeWeek": 287,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "time": 304,
+    "timeDay": 238,
+    "timeWeek": 314,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 61,
-    "timeWeek": 79,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "time": 76,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {}
   }
 ]
