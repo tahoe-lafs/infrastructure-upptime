@@ -1,7 +1,7 @@
 url: https://gitlab.com/tahoe-lafs
-status: down
-code: 500
-responseTime: 2549
-lastUpdated: 2025-05-10T02:19:27.040Z
+status: up
+code: 200
+responseTime: 327
+lastUpdated: 2025-05-10T02:52:35.702Z
 startTime: 2025-02-27T09:34:03.108Z
 generator: Upptime <https://github.com/upptime/upptime>
