@@ -1,7 +1,7 @@
 url: https://codeberg.org/tahoe-lafs
-status: up
-code: 200
-responseTime: 1719
-lastUpdated: 2025-05-09T23:07:28.163Z
+status: down
+code: 502
+responseTime: 3369
+lastUpdated: 2025-05-10T17:01:28.362Z
 startTime: 2025-02-27T09:34:03.655Z
 generator: Upptime <https://github.com/upptime/upptime>
