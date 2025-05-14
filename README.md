@@ -1,4 +1,4 @@
-# [📈 Live Status](https://tahoe-lafs.github.io/tahoe-upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://tahoe-lafs.github.io/infrastructure-upptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Tahoe-LAFS](https://tahoe-lafs.org/), powered by [Upptime](https://github.com/upptime/upptime).
 
