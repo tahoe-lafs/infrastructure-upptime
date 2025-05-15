@@ -27,8 +27,16 @@ status-website:
   baseUrl: /infrastructure-upptime
   logoUrl: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/logo_199x300.png
   name: Tahoe-LAFS
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: |
+    Status page monitoring the availability of the services powering the Tahoe-LAFS infrastructure.
+  introMessage: |
+    Based on [**Upptime**](https://github.com/upptime/upptime), this static page shows:
+    - any active incidents and scheduled maintenances based on [opened issues](https://github.com/tahoe-lafs/infrastructure-upptime/issues?q=is%3Aissue state%3Aopen)
+    - a live status of all the [services](https://github.com/tahoe-lafs/infrastructure-upptime/blob/master/.upptimerc.yml) with [metrics](https://github.com/tahoe-lafs/infrastructure-upptime/tree/master/history) updated by [CI](https://github.com/tahoe-lafs/infrastructure-upptime/actions).
+    - any past incidents based on [closed issues](https://github.com/tahoe-lafs/infrastructure-upptime/issues?q=is%3Aissue%20state%3Aclosed)
+    Further:
+    - receive notifications about new incidents and maintenances by *watching* [this repository](https://github.com/tahoe-lafs/infrastructure-upptime) (e.g. `Watch` > `Custom` > `Issues`).
+    - contribute by creating an issue or submiting pull-request in [this repository](https://github.com/tahoe-lafs/infrastructure-upptime).
   navbar:
     - title: Status
       href: /
