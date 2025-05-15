@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/logo_199x300.png
   name: Tahoe-LAFS
   introTitle: |
-    Status page monitoring the availability of the services powering the Tahoe-LAFS infrastructure.
+    Status of the Tahoe-LAFS infrastructure.
   introMessage: |
     Based on [**Upptime**](https://github.com/upptime/upptime), this static page shows:
     - any active incidents and scheduled maintenances based on [opened issues](https://github.com/tahoe-lafs/infrastructure-upptime/issues?q=is%3Aissue state%3Aopen)
