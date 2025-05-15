@@ -32,9 +32,9 @@ status-website:
   introMessage: |
     Based on [**Upptime**](https://github.com/upptime/upptime), this static page displays the following information:
     - active incidents and scheduled maintenances based on [opened issues](https://github.com/tahoe-lafs/infrastructure-upptime/issues?q=is%3Aissue state%3Aopen)
-    - live status of all [services](https://github.com/tahoe-lafs/infrastructure-upptime/blob/master/.upptimerc.yml) with [metrics](https://github.com/tahoe-lafs/infrastructure-upptime/tree/master/history) updated by [CI](https://github.com/tahoe-lafs/infrastructure-upptime/actions).
+    - live status of all [services](https://github.com/tahoe-lafs/infrastructure-upptime/blob/master/.upptimerc.yml) with [metrics](https://github.com/tahoe-lafs/infrastructure-upptime/tree/master/history) updated by [CI](https://github.com/tahoe-lafs/infrastructure-upptime/actions)
     - past incidents based on [closed issues](https://github.com/tahoe-lafs/infrastructure-upptime/issues?q=is%3Aissue%20state%3Aclosed)
-    Authenticated users can *watch* [this repository](https://github.com/tahoe-lafs/infrastructure-upptime) to be notified for future incidents and maintenances (e.g. `Watch` > `Custom` > `Issues`). They can also create issues or submit pull-requests to contribute.
+    Users authenticated on [GitHub](https://github.com/tahoe-lafs/infrastructure-upptime) can use the `Watch` button (e.g. `Custom` > `Issues`) to be notified for future incidents and maintenances. They can also create issues to contribute, but changes should rather be pushed directly in the `master` branch by a maintainer.
   navbar:
     - title: Status
       href: /
