@@ -8,18 +8,6 @@ sites:
     url: https://tahoe-lafs.org/trac/tahoe-lafs/query 
   - name: Wiki
     url: https://tahoe-lafs.org/trac/tahoe-lafs/wiki
-  - name: GitHub
-    url: https://github.com/tahoe-lafs
-  - name: GitLab
-    url: https://gitlab.com/tahoe-lafs
-  - name: CodeBerg
-    url: https://codeberg.org/tahoe-lafs
-  - name: CircleCI
-    url: https://app.circleci.com/pipelines/github/tahoe-lafs/tahoe-lafs
-  - name: Coveralls
-    url: https://coveralls.io/github/tahoe-lafs
-  - name: PyPi
-    url: https://pypi.org/project/tahoe-lafs/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
