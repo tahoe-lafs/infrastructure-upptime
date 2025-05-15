@@ -9,6 +9,32 @@ sites:
   - name: Wiki
     url: https://tahoe-lafs.org/trac/tahoe-lafs/wiki
 
+  - name: Testgrid - alpha-introducer
+    icon: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/tahoe-logo-1.png
+    check: "tcp-ping"
+    url: testgrid.tahoe-lafs.org
+    port: 5000
+  - name: Testgrid - beta-introducer
+    icon: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/tahoe-logo-1.png
+    check: "tcp-ping"
+    url: testgrid.tahoe-lafs.org
+    port: 5001
+  - name: Testgrid - alpha-storage
+    icon: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/tahoe-logo-1.png
+    check: "tcp-ping"
+    url: testgrid.tahoe-lafs.org
+    port: 5002
+  - name: Testgrid - beta-storage
+    icon: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/tahoe-logo-1.png
+    check: "tcp-ping"
+    url: testgrid.tahoe-lafs.org
+    port: 5003
+  - name: Testgrid - gamma-storage
+    icon: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/tahoe-logo-1.png
+    check: "tcp-ping"
+    url: testgrid.tahoe-lafs.org
+    port: 5004
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
