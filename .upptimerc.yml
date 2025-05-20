@@ -51,7 +51,7 @@ status-website:
     Users authenticated on [GitHub](https://github.com/tahoe-lafs/infrastructure-upptime) can use the `Watch` button (e.g. `Custom` > `Issues`) to be notified for future incidents and maintenances. They can also create issues to contribute, but changes should rather be pushed directly in the `master` branch by a maintainer.
   navbar:
     - title: Status
-      href: /
+      href: /infrastructure-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
