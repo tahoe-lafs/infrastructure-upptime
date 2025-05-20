@@ -7,7 +7,7 @@ sites:
   - name: Tickets
     url: https://tahoe-lafs.org/trac/tahoe-lafs/query 
   - name: Wiki
-    url: https://tahoe-lafs.org/trac/tahoe-lafs/wiki
+    url: https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex
 
   - name: Testgrid - alpha-introducer
     icon: https://raw.githubusercontent.com/tahoe-lafs/infrastructure-upptime/master/assets/tahoe-logo-1.png
