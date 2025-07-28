@@ -13,7 +13,7 @@
     "time": 6437,
     "timeDay": 6180,
     "timeWeek": 7339,
-    "timeMonth": 7162,
+    "timeMonth": 7187,
     "timeYear": 6437,
     "dailyMinutesDown": {
       "2025-07-28": 470,
@@ -35,9 +35,9 @@
     "uptimeMonth": "95.14%",
     "uptimeYear": "99.02%",
     "time": 6306,
-    "timeDay": 6479,
+    "timeDay": 6339,
     "timeWeek": 6984,
-    "timeMonth": 6854,
+    "timeMonth": 6876,
     "timeYear": 6306,
     "dailyMinutesDown": {
       "2025-07-28": 489,
@@ -52,24 +52,24 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "73.09%",
-    "uptimeWeek": "78.58%",
-    "uptimeMonth": "95.07%",
+    "uptimeDay": "73.07%",
+    "uptimeWeek": "78.67%",
+    "uptimeMonth": "95.09%",
     "uptimeYear": "99.01%",
-    "time": 5269,
-    "timeDay": 5604,
-    "timeWeek": 6394,
-    "timeMonth": 6223,
-    "timeYear": 5269,
+    "time": 5262,
+    "timeDay": 5444,
+    "timeWeek": 6368,
+    "timeMonth": 6224,
+    "timeYear": 5262,
     "dailyMinutesDown": {
       "2025-07-28": 386,
       "2025-07-27": 506,
       "2025-07-26": 484,
       "2025-07-25": 439,
       "2025-07-24": 309,
-      "2025-07-23": 33
+      "2025-07-23": 24
     }
   },
   {
@@ -86,7 +86,7 @@
     "time": 142,
     "timeDay": 119,
     "timeWeek": 140,
-    "timeMonth": 136,
+    "timeMonth": 132,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -104,7 +104,7 @@
     "time": 139,
     "timeDay": 119,
     "timeWeek": 140,
-    "timeMonth": 135,
+    "timeMonth": 131,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -122,7 +122,7 @@
     "time": 139,
     "timeDay": 118,
     "timeWeek": 139,
-    "timeMonth": 135,
+    "timeMonth": 131,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -140,7 +140,7 @@
     "time": 139,
     "timeDay": 119,
     "timeWeek": 139,
-    "timeMonth": 135,
+    "timeMonth": 131,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -158,7 +158,7 @@
     "time": 139,
     "timeDay": 119,
     "timeWeek": 139,
-    "timeMonth": 135,
+    "timeMonth": 131,
     "timeYear": 139,
     "dailyMinutesDown": {}
   }
