@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "96.96%",
-    "uptimeDay": "78.42%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "81.29%",
-    "uptimeYear": "96.96%",
+    "status": "down",
+    "uptime": "96.98%",
+    "uptimeDay": "78.37%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "81.45%",
+    "uptimeYear": "96.98%",
     "time": 7250,
     "timeDay": 16825,
     "timeWeek": 12864,
-    "timeMonth": 10000,
+    "timeMonth": 9978,
     "timeYear": 7250,
     "dailyMinutesDown": {
-      "2025-09-02": 231,
+      "2025-09-02": 232,
       "2025-09-01": 80,
       "2025-08-29": 62,
       "2025-08-25": 14,
@@ -33,7 +33,7 @@
       "2025-08-06": 1257,
       "2025-08-05": 1012,
       "2025-08-04": 1275,
-      "2025-08-03": 171
+      "2025-08-03": 101
     }
   },
   {
@@ -41,17 +41,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
-    "uptime": "96.78%",
-    "uptimeDay": "81.86%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "80.23%",
-    "uptimeYear": "96.78%",
-    "time": 6920,
-    "timeDay": 16218,
-    "timeWeek": 11092,
-    "timeMonth": 9332,
-    "timeYear": 6920,
+    "status": "down",
+    "uptime": "96.80%",
+    "uptimeDay": "81.83%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "80.33%",
+    "uptimeYear": "96.80%",
+    "time": 6918,
+    "timeDay": 15139,
+    "timeWeek": 10822,
+    "timeMonth": 9271,
+    "timeYear": 6918,
     "dailyMinutesDown": {
       "2025-09-02": 175,
       "2025-09-01": 87,
@@ -70,7 +70,7 @@
       "2025-08-06": 1239,
       "2025-08-05": 987,
       "2025-08-04": 1231,
-      "2025-08-03": 701
+      "2025-08-03": 658
     }
   },
   {
@@ -87,7 +87,7 @@
     "time": 5878,
     "timeDay": 9265,
     "timeWeek": 7395,
-    "timeMonth": 8519,
+    "timeMonth": 8478,
     "timeYear": 5878,
     "dailyMinutesDown": {
       "2025-09-02": 139,
