@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "97.75%",
-    "uptimeDay": "68.95%",
+    "status": "down",
+    "uptime": "97.81%",
+    "uptimeDay": "68.91%",
     "uptimeWeek": "92.40%",
-    "uptimeMonth": "86.08%",
-    "uptimeYear": "97.75%",
+    "uptimeMonth": "86.50%",
+    "uptimeYear": "97.81%",
     "time": 7461,
     "timeDay": 15680,
     "timeWeek": 14567,
     "timeMonth": 10369,
     "timeYear": 7461,
     "dailyMinutesDown": {
-      "2025-09-03": 77,
+      "2025-09-03": 78,
       "2025-09-02": 546,
       "2025-09-01": 80,
       "2025-08-29": 62,
@@ -31,7 +31,7 @@
       "2025-08-09": 523,
       "2025-08-08": 1404,
       "2025-08-07": 1285,
-      "2025-08-06": 1226
+      "2025-08-06": 1043
     }
   },
   {
