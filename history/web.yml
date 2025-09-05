@@ -1,7 +1,7 @@
 url: https://www.tahoe-lafs.org/
-status: up
-code: 200
-responseTime: 11972
-lastUpdated: 2025-09-05T03:08:36.051Z
+status: down
+code: 502
+responseTime: 1021
+lastUpdated: 2025-09-05T05:06:36.281Z
 startTime: 2025-02-27T09:33:58.812Z
 generator: Upptime <https://github.com/upptime/upptime>
