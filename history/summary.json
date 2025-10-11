@@ -4,17 +4,17 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "88.39%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "89.11%",
     "uptimeWeek": "95.90%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "99.58%",
-    "time": 7556,
-    "timeDay": 8179,
-    "timeWeek": 8308,
-    "timeMonth": 7988,
-    "timeYear": 7556,
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "99.59%",
+    "time": 7552,
+    "timeDay": 7540,
+    "timeWeek": 8214,
+    "timeMonth": 7965,
+    "timeYear": 7552,
     "dailyMinutesDown": {
       "2025-10-11": 62,
       "2025-10-10": 262,
@@ -29,7 +29,7 @@
       "2025-09-28": 60,
       "2025-09-27": 164,
       "2025-09-26": 104,
-      "2025-09-25": 25
+      "2025-09-25": 15
     }
   },
   {
@@ -37,17 +37,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "89.13%",
+    "uptimeDay": "89.87%",
     "uptimeWeek": "95.53%",
-    "uptimeMonth": "96.58%",
+    "uptimeMonth": "96.61%",
     "uptimeYear": "99.54%",
-    "time": 7198,
-    "timeDay": 8189,
-    "timeWeek": 7904,
-    "timeMonth": 7618,
-    "timeYear": 7198,
+    "time": 7193,
+    "timeDay": 7486,
+    "timeWeek": 7795,
+    "timeMonth": 7595,
+    "timeYear": 7193,
     "dailyMinutesDown": {
       "2025-10-11": 76,
       "2025-10-10": 217,
@@ -63,7 +63,7 @@
       "2025-09-28": 123,
       "2025-09-27": 137,
       "2025-09-26": 140,
-      "2025-09-25": 45
+      "2025-09-25": 30
     }
   },
   {
@@ -71,17 +71,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "85.08%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "87.05%",
     "uptimeWeek": "95.53%",
-    "uptimeMonth": "94.01%",
-    "uptimeYear": "99.19%",
-    "time": 6227,
-    "timeDay": 8748,
-    "timeWeek": 7383,
-    "timeMonth": 7668,
-    "timeYear": 6227,
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "99.20%",
+    "time": 6223,
+    "timeDay": 8177,
+    "timeWeek": 7252,
+    "timeMonth": 7634,
+    "timeYear": 6223,
     "dailyMinutesDown": {
       "2025-10-11": 133,
       "2025-10-10": 201,
@@ -105,7 +105,7 @@
       "2025-09-19": 36,
       "2025-09-18": 365,
       "2025-09-17": 930,
-      "2025-09-15": 22
+      "2025-09-15": 8
     }
   },
   {
