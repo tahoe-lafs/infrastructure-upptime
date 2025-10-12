@@ -4,11 +4,11 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "57.17%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "95.86%",
+    "uptimeDay": "57.08%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "99.45%",
     "time": 7615,
     "timeDay": 13317,
@@ -16,7 +16,7 @@
     "timeMonth": 8238,
     "timeYear": 7615,
     "dailyMinutesDown": {
-      "2025-10-12": 599,
+      "2025-10-12": 600,
       "2025-10-11": 166,
       "2025-10-10": 262,
       "2025-10-09": 18,
@@ -28,7 +28,7 @@
       "2025-09-30": 80,
       "2025-09-29": 197,
       "2025-09-28": 60,
-      "2025-09-27": 49
+      "2025-09-27": 35
     }
   },
   {
@@ -36,19 +36,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "58.41%",
-    "uptimeWeek": "89.85%",
-    "uptimeMonth": "95.71%",
+    "uptimeDay": "59.00%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "99.43%",
     "time": 7274,
-    "timeDay": 11536,
+    "timeDay": 11752,
     "timeWeek": 8906,
     "timeMonth": 7995,
     "timeYear": 7274,
     "dailyMinutesDown": {
-      "2025-10-12": 552,
+      "2025-10-12": 553,
       "2025-10-11": 179,
       "2025-10-10": 217,
       "2025-10-09": 18,
@@ -61,7 +61,7 @@
       "2025-09-30": 105,
       "2025-09-29": 188,
       "2025-09-28": 123,
-      "2025-09-27": 47
+      "2025-09-27": 39
     }
   },
   {
@@ -71,12 +71,12 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "65.11%",
+    "uptimeDay": "65.78%",
     "uptimeWeek": "91.15%",
     "uptimeMonth": "96.12%",
     "uptimeYear": "99.48%",
     "time": 6315,
-    "timeDay": 10899,
+    "timeDay": 11088,
     "timeWeek": 8726,
     "timeMonth": 8011,
     "timeYear": 6315,
