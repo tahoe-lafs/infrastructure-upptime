@@ -4,11 +4,11 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "43.83%",
-    "uptimeWeek": "87.43%",
-    "uptimeMonth": "95.55%",
+    "uptimeDay": "43.75%",
+    "uptimeWeek": "87.42%",
+    "uptimeMonth": "95.57%",
     "uptimeYear": "99.41%",
     "time": 7678,
     "timeDay": 17675,
@@ -16,7 +16,7 @@
     "timeMonth": 8533,
     "timeYear": 7678,
     "dailyMinutesDown": {
-      "2025-10-13": 97,
+      "2025-10-13": 98,
       "2025-10-12": 713,
       "2025-10-11": 166,
       "2025-10-10": 262,
@@ -28,7 +28,7 @@
       "2025-10-01": 15,
       "2025-09-30": 80,
       "2025-09-29": 197,
-      "2025-09-28": 34
+      "2025-09-28": 26
     }
   },
   {
@@ -36,19 +36,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "49.26%",
-    "uptimeWeek": "88.09%",
-    "uptimeMonth": "95.62%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "49.20%",
+    "uptimeWeek": "88.08%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "99.42%",
     "time": 7338,
     "timeDay": 16627,
     "timeWeek": 9925,
     "timeMonth": 8299,
     "timeYear": 7338,
     "dailyMinutesDown": {
-      "2025-10-13": 78,
+      "2025-10-13": 79,
       "2025-10-12": 652,
       "2025-10-11": 179,
       "2025-10-10": 217,
@@ -61,7 +61,7 @@
       "2025-10-01": 29,
       "2025-09-30": 105,
       "2025-09-29": 188,
-      "2025-09-28": 31
+      "2025-09-28": 23
     }
   },
   {
@@ -69,11 +69,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "59.18%",
+    "uptimeDay": "59.15%",
     "uptimeWeek": "89.75%",
-    "uptimeMonth": "95.96%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "99.46%",
     "time": 6346,
     "timeDay": 12135,
@@ -96,8 +96,7 @@
       "2025-09-28": 91,
       "2025-09-27": 89,
       "2025-09-26": 60,
-      "2025-09-25": 36,
-      "2025-09-24": 12
+      "2025-09-25": 36
     }
   },
   {
