@@ -4,11 +4,11 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "36.13%",
-    "uptimeWeek": "86.33%",
-    "uptimeMonth": "95.35%",
+    "uptimeDay": "36.05%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "99.38%",
     "time": 7691,
     "timeDay": 17699,
@@ -16,7 +16,7 @@
     "timeMonth": 8588,
     "timeYear": 7691,
     "dailyMinutesDown": {
-      "2025-10-13": 208,
+      "2025-10-13": 209,
       "2025-10-12": 713,
       "2025-10-11": 166,
       "2025-10-10": 262,
@@ -28,7 +28,7 @@
       "2025-10-01": 15,
       "2025-09-30": 80,
       "2025-09-29": 197,
-      "2025-09-28": 14
+      "2025-09-28": 5
     }
   },
   {
@@ -37,18 +37,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "41.46%",
-    "uptimeWeek": "86.97%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.38%",
+    "uptimeDay": "40.19%",
+    "uptimeWeek": "86.79%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "99.38%",
     "time": 7347,
     "timeDay": 16819,
     "timeWeek": 10044,
     "timeMonth": 8337,
     "timeYear": 7347,
     "dailyMinutesDown": {
-      "2025-10-13": 190,
+      "2025-10-13": 209,
       "2025-10-12": 652,
       "2025-10-11": 179,
       "2025-10-10": 217,
@@ -69,11 +69,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "50.54%",
-    "uptimeWeek": "88.52%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "50.52%",
+    "uptimeWeek": "88.51%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "99.43%",
     "time": 6355,
     "timeDay": 12410,
@@ -96,7 +96,7 @@
       "2025-09-28": 91,
       "2025-09-27": 89,
       "2025-09-26": 60,
-      "2025-09-25": 36
+      "2025-09-25": 27
     }
   },
   {
