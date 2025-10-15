@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "26.32%",
-    "uptimeWeek": "58.23%",
-    "uptimeMonth": "90.30%",
+    "uptimeDay": "26.79%",
+    "uptimeWeek": "58.22%",
+    "uptimeMonth": "90.33%",
     "uptimeYear": "98.72%",
-    "time": 7969,
-    "timeDay": 16546,
-    "timeWeek": 12421,
-    "timeMonth": 9648,
-    "timeYear": 7969,
+    "time": 7966,
+    "timeDay": 16094,
+    "timeWeek": 12365,
+    "timeMonth": 9635,
+    "timeYear": 7966,
     "dailyMinutesDown": {
-      "2025-10-15": 766,
+      "2025-10-15": 767,
       "2025-10-14": 1187,
       "2025-10-13": 1103,
       "2025-10-12": 713,
@@ -24,7 +24,7 @@
       "2025-10-10": 262,
       "2025-10-09": 18,
       "2025-10-06": 15,
-      "2025-10-04": 22
+      "2025-10-04": 10
     }
   },
   {
@@ -35,8 +35,8 @@
     "status": "down",
     "uptime": "98.81%",
     "uptimeDay": "30.31%",
-    "uptimeWeek": "61.34%",
-    "uptimeMonth": "90.99%",
+    "uptimeWeek": "61.26%",
+    "uptimeMonth": "90.97%",
     "uptimeYear": "98.81%",
     "time": 7654,
     "timeDay": 15161,
@@ -44,7 +44,7 @@
     "timeMonth": 9583,
     "timeYear": 7654,
     "dailyMinutesDown": {
-      "2025-10-15": 694,
+      "2025-10-15": 702,
       "2025-10-14": 1092,
       "2025-10-13": 1046,
       "2025-10-12": 652,
@@ -60,11 +60,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "37.28%",
-    "uptimeWeek": "65.36%",
-    "uptimeMonth": "92.03%",
+    "uptimeDay": "37.80%",
+    "uptimeWeek": "65.50%",
+    "uptimeMonth": "92.06%",
     "uptimeYear": "98.95%",
     "time": 6734,
     "timeDay": 12791,
@@ -77,7 +77,7 @@
       "2025-10-13": 975,
       "2025-10-12": 558,
       "2025-10-11": 190,
-      "2025-10-10": 139
+      "2025-10-10": 124
     }
   },
   {
