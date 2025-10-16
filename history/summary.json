@@ -4,11 +4,11 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "35.99%",
-    "uptimeWeek": "51.12%",
-    "uptimeMonth": "88.75%",
+    "uptimeDay": "35.91%",
+    "uptimeWeek": "51.22%",
+    "uptimeMonth": "88.77%",
     "uptimeYear": "98.52%",
     "time": 8069,
     "timeDay": 15076,
@@ -16,13 +16,13 @@
     "timeMonth": 9993,
     "timeYear": 8069,
     "dailyMinutesDown": {
-      "2025-10-16": 751,
+      "2025-10-16": 752,
       "2025-10-15": 951,
       "2025-10-14": 1187,
       "2025-10-13": 1103,
       "2025-10-12": 713,
       "2025-10-11": 166,
-      "2025-10-10": 59
+      "2025-10-10": 48
     }
   },
   {
@@ -30,11 +30,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "41.51%",
-    "uptimeWeek": "56.43%",
-    "uptimeMonth": "89.97%",
+    "uptimeDay": "41.46%",
+    "uptimeWeek": "56.51%",
+    "uptimeMonth": "89.99%",
     "uptimeYear": "98.68%",
     "time": 7799,
     "timeDay": 14292,
@@ -42,12 +42,12 @@
     "timeMonth": 10093,
     "timeYear": 7799,
     "dailyMinutesDown": {
-      "2025-10-16": 665,
+      "2025-10-16": 666,
       "2025-10-15": 909,
       "2025-10-14": 1092,
       "2025-10-13": 1046,
       "2025-10-12": 652,
-      "2025-10-11": 27
+      "2025-10-11": 18
     }
   },
   {
@@ -57,9 +57,9 @@
     "slug": "wiki",
     "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "42.36%",
-    "uptimeWeek": "61.29%",
-    "uptimeMonth": "91.09%",
+    "uptimeDay": "41.51%",
+    "uptimeWeek": "61.17%",
+    "uptimeMonth": "91.07%",
     "uptimeYear": "98.83%",
     "time": 6844,
     "timeDay": 11905,
@@ -67,7 +67,7 @@
     "timeMonth": 9922,
     "timeYear": 6844,
     "dailyMinutesDown": {
-      "2025-10-16": 674,
+      "2025-10-16": 686,
       "2025-10-15": 767,
       "2025-10-14": 1030,
       "2025-10-13": 975,
