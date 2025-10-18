@@ -4,12 +4,12 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "37.96%",
-    "uptimeWeek": "46.84%",
-    "uptimeMonth": "87.77%",
-    "uptimeYear": "98.40%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "37.93%",
+    "uptimeWeek": "47.13%",
+    "uptimeMonth": "87.83%",
+    "uptimeYear": "98.41%",
     "time": 8256,
     "timeDay": 17162,
     "timeWeek": 15091,
@@ -21,7 +21,7 @@
       "2025-10-16": 999,
       "2025-10-15": 951,
       "2025-10-14": 1187,
-      "2025-10-13": 1103
+      "2025-10-13": 1073
     }
   },
   {
@@ -29,11 +29,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "30.48%",
-    "uptimeWeek": "55.65%",
-    "uptimeMonth": "89.79%",
+    "uptimeDay": "30.45%",
+    "uptimeWeek": "55.81%",
+    "uptimeMonth": "89.83%",
     "uptimeYear": "98.67%",
     "time": 7946,
     "timeDay": 17070,
@@ -46,7 +46,7 @@
       "2025-10-16": 889,
       "2025-10-15": 909,
       "2025-10-14": 1092,
-      "2025-10-13": 389
+      "2025-10-13": 372
     }
   },
   {
@@ -54,23 +54,23 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "40.08%",
-    "uptimeWeek": "67.26%",
-    "uptimeMonth": "92.47%",
+    "uptimeDay": "40.05%",
+    "uptimeWeek": "67.36%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.02%",
-    "time": 7106,
-    "timeDay": 15991,
-    "timeWeek": 13342,
-    "timeMonth": 10626,
-    "timeYear": 7106,
+    "time": 7102,
+    "timeDay": 15477,
+    "timeWeek": 13276,
+    "timeMonth": 10600,
+    "timeYear": 7102,
     "dailyMinutesDown": {
       "2025-10-18": 121,
       "2025-10-17": 881,
       "2025-10-16": 864,
       "2025-10-15": 767,
-      "2025-10-14": 660
+      "2025-10-14": 649
     }
   },
   {
