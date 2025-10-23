@@ -12,7 +12,7 @@
     "uptimeYear": "99.11%",
     "time": 8304,
     "timeDay": 7024,
-    "timeWeek": 11537,
+    "timeWeek": 11554,
     "timeMonth": 10546,
     "timeYear": 8304,
     "dailyMinutesDown": {
@@ -30,17 +30,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "71.10%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "71.18%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.15%",
-    "time": 7975,
-    "timeDay": 6522,
-    "timeWeek": 10819,
-    "timeMonth": 10439,
-    "timeYear": 7975,
+    "time": 7971,
+    "timeDay": 6243,
+    "timeWeek": 10747,
+    "timeMonth": 10419,
+    "timeYear": 7971,
     "dailyMinutesDown": {
       "2025-10-23": 43,
       "2025-10-22": 150,
@@ -48,7 +48,7 @@
       "2025-10-20": 227,
       "2025-10-18": 611,
       "2025-10-17": 1038,
-      "2025-10-16": 725
+      "2025-10-16": 717
     }
   },
   {
@@ -56,17 +56,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "90.62%",
-    "uptimeWeek": "76.70%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "99.31%",
-    "time": 7154,
-    "timeDay": 4069,
-    "timeWeek": 11071,
-    "timeMonth": 10297,
-    "timeYear": 7154,
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "76.97%",
+    "uptimeMonth": "94.70%",
+    "uptimeYear": "99.32%",
+    "time": 7149,
+    "timeDay": 3868,
+    "timeWeek": 10949,
+    "timeMonth": 10274,
+    "timeYear": 7149,
     "dailyMinutesDown": {
       "2025-10-23": 11,
       "2025-10-22": 124,
@@ -74,7 +74,7 @@
       "2025-10-20": 160,
       "2025-10-18": 442,
       "2025-10-17": 881,
-      "2025-10-16": 636
+      "2025-10-16": 608
     }
   },
   {
