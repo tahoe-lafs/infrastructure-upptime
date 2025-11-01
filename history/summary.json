@@ -35,12 +35,12 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "86.10%",
-    "uptimeWeek": "87.81%",
+    "uptimeWeek": "87.85%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.58%",
     "time": 7996,
     "timeDay": 8274,
-    "timeWeek": 7572,
+    "timeWeek": 7548,
     "timeMonth": 10053,
     "timeYear": 7996,
     "dailyMinutesDown": {
@@ -60,12 +60,12 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "90.79%",
-    "uptimeWeek": "90.29%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "99.58%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "99.59%",
     "time": 7222,
     "timeDay": 8062,
     "timeWeek": 7638,
@@ -82,7 +82,7 @@
       "2025-10-25": 144,
       "2025-10-24": 267,
       "2025-10-23": 156,
-      "2025-10-22": 55
+      "2025-10-22": 23
     }
   },
   {
