@@ -1,7 +1,7 @@
 url: https://tahoe-lafs.org/trac/tahoe-lafs/query
-status: down
-code: 502
-responseTime: 485
-lastUpdated: 2025-11-09T21:46:22.229Z
+status: up
+code: 200
+responseTime: 909
+lastUpdated: 2025-11-09T22:04:34.148Z
 startTime: 2025-02-27T09:34:00.432Z
 generator: Upptime <https://github.com/upptime/upptime>
