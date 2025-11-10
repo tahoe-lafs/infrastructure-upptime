@@ -1,7 +1,7 @@
 url: https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex
-status: up
-code: 200
-responseTime: 12390
-lastUpdated: 2025-11-10T10:23:15.868Z
+status: down
+code: 502
+responseTime: 110
+lastUpdated: 2025-11-10T10:48:55.904Z
 startTime: 2025-02-27T09:34:01.873Z
 generator: Upptime <https://github.com/upptime/upptime>
