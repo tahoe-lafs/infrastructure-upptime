@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "89.88%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.57%",
-    "time": 8351,
+    "time": 8354,
     "timeDay": 5911,
     "timeWeek": 6491,
-    "timeMonth": 9333,
-    "timeYear": 8351,
+    "timeMonth": 9367,
+    "timeYear": 8354,
     "dailyMinutesDown": {
-      "2025-11-15": 134,
+      "2025-11-15": 135,
       "2025-11-14": 32,
       "2025-11-13": 25,
       "2025-11-12": 54,
@@ -28,7 +28,7 @@
       "2025-11-05": 264,
       "2025-11-04": 74,
       "2025-11-03": 134,
-      "2025-11-02": 50
+      "2025-11-02": 39
     }
   },
   {
@@ -38,9 +38,9 @@
     "slug": "tickets",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "89.92%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "96.58%",
+    "uptimeDay": "89.24%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "99.60%",
     "time": 8037,
     "timeDay": 761,
@@ -48,7 +48,7 @@
     "timeMonth": 9047,
     "timeYear": 8037,
     "dailyMinutesDown": {
-      "2025-11-15": 145,
+      "2025-11-15": 155,
       "2025-11-14": 13,
       "2025-11-13": 48,
       "2025-11-12": 57,
@@ -69,11 +69,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "90.67%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "90.63%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "99.61%",
     "time": 7264,
     "timeDay": 11945,
@@ -93,7 +93,7 @@
       "2025-11-05": 218,
       "2025-11-04": 147,
       "2025-11-03": 151,
-      "2025-11-02": 62
+      "2025-11-02": 53
     }
   },
   {
