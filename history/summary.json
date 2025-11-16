@@ -7,16 +7,16 @@
     "status": "down",
     "uptime": "99.30%",
     "uptimeDay": "10.60%",
-    "uptimeWeek": "84.47%",
-    "uptimeMonth": "93.96%",
+    "uptimeWeek": "84.33%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.30%",
     "time": 8417,
     "timeDay": 19020,
     "timeWeek": 9026,
-    "timeMonth": 9381,
+    "timeMonth": 9370,
     "timeYear": 8417,
     "dailyMinutesDown": {
-      "2025-11-16": 794,
+      "2025-11-16": 808,
       "2025-11-15": 524,
       "2025-11-14": 32,
       "2025-11-13": 25,
@@ -36,11 +36,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "9.97%",
-    "uptimeWeek": "84.81%",
-    "uptimeMonth": "94.13%",
+    "uptimeDay": "10.87%",
+    "uptimeWeek": "84.80%",
+    "uptimeMonth": "94.15%",
     "uptimeYear": "99.32%",
     "time": 8100,
     "timeDay": 19970,
@@ -48,7 +48,7 @@
     "timeMonth": 8991,
     "timeYear": 8100,
     "dailyMinutesDown": {
-      "2025-11-16": 781,
+      "2025-11-16": 782,
       "2025-11-15": 556,
       "2025-11-14": 13,
       "2025-11-13": 48,
@@ -61,7 +61,7 @@
       "2025-11-06": 223,
       "2025-11-05": 160,
       "2025-11-04": 108,
-      "2025-11-03": 85
+      "2025-11-03": 76
     }
   },
   {
@@ -69,11 +69,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "13.57%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "94.36%",
+    "uptimeDay": "14.49%",
+    "uptimeWeek": "85.72%",
+    "uptimeMonth": "94.39%",
     "uptimeYear": "99.35%",
     "time": 7309,
     "timeDay": 15192,
@@ -93,7 +93,7 @@
       "2025-11-06": 135,
       "2025-11-05": 218,
       "2025-11-04": 147,
-      "2025-11-03": 81
+      "2025-11-03": 67
     }
   },
   {
