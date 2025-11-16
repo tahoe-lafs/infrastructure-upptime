@@ -4,11 +4,11 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "12.72%",
-    "uptimeWeek": "85.08%",
-    "uptimeMonth": "94.03%",
+    "uptimeDay": "12.64%",
+    "uptimeWeek": "85.07%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.31%",
     "time": 8406,
     "timeDay": 18830,
@@ -16,7 +16,7 @@
     "timeMonth": 9361,
     "timeYear": 8406,
     "dailyMinutesDown": {
-      "2025-11-16": 733,
+      "2025-11-16": 734,
       "2025-11-15": 524,
       "2025-11-14": 32,
       "2025-11-13": 25,
@@ -28,7 +28,7 @@
       "2025-11-06": 224,
       "2025-11-05": 264,
       "2025-11-04": 74,
-      "2025-11-03": 54
+      "2025-11-03": 45
     }
   },
   {
@@ -36,19 +36,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "11.20%",
-    "uptimeWeek": "85.39%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "11.14%",
+    "uptimeWeek": "85.38%",
+    "uptimeMonth": "94.19%",
+    "uptimeYear": "99.33%",
     "time": 8082,
     "timeDay": 17539,
     "timeWeek": 8325,
     "timeMonth": 8930,
     "timeYear": 8082,
     "dailyMinutesDown": {
-      "2025-11-16": 723,
+      "2025-11-16": 724,
       "2025-11-15": 556,
       "2025-11-14": 13,
       "2025-11-13": 48,
@@ -61,7 +61,7 @@
       "2025-11-06": 223,
       "2025-11-05": 160,
       "2025-11-04": 108,
-      "2025-11-03": 127
+      "2025-11-03": 118
     }
   },
   {
@@ -71,9 +71,9 @@
     "slug": "wiki",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "15.51%",
-    "uptimeWeek": "86.20%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "14.88%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "94.44%",
     "uptimeYear": "99.36%",
     "time": 7296,
     "timeDay": 14334,
@@ -81,7 +81,7 @@
     "timeMonth": 8627,
     "timeYear": 7296,
     "dailyMinutesDown": {
-      "2025-11-16": 691,
+      "2025-11-16": 700,
       "2025-11-15": 526,
       "2025-11-14": 8,
       "2025-11-13": 31,
