@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "84.23%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "84.22%",
+    "uptimeMonth": "93.97%",
+    "uptimeYear": "99.31%",
     "time": 8406,
     "timeDay": 4220,
     "timeWeek": 8394,
-    "timeMonth": 8732,
+    "timeMonth": 8703,
     "timeYear": 8406,
     "dailyMinutesDown": {
-      "2025-11-18": 45,
+      "2025-11-18": 46,
       "2025-11-17": 20,
       "2025-11-16": 891,
       "2025-11-15": 524,
@@ -28,7 +28,7 @@
       "2025-11-08": 137,
       "2025-11-07": 314,
       "2025-11-06": 224,
-      "2025-11-05": 221
+      "2025-11-05": 196
     }
   },
   {
@@ -45,7 +45,7 @@
     "time": 8096,
     "timeDay": 4794,
     "timeWeek": 9268,
-    "timeMonth": 8435,
+    "timeMonth": 8421,
     "timeYear": 8096,
     "dailyMinutesDown": {
       "2025-11-18": 92,
@@ -70,17 +70,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "96.26%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "96.23%",
     "uptimeWeek": "85.06%",
-    "uptimeMonth": "94.30%",
-    "uptimeYear": "99.34%",
-    "time": 7292,
-    "timeDay": 4033,
-    "timeWeek": 7116,
-    "timeMonth": 7680,
-    "timeYear": 7292,
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "99.35%",
+    "time": 7289,
+    "timeDay": 3545,
+    "timeWeek": 6989,
+    "timeMonth": 7659,
+    "timeYear": 7289,
     "dailyMinutesDown": {
       "2025-11-18": 54,
       "2025-11-17": 10,
@@ -95,7 +95,7 @@
       "2025-11-07": 253,
       "2025-11-06": 135,
       "2025-11-05": 218,
-      "2025-11-04": 110
+      "2025-11-04": 98
     }
   },
   {
