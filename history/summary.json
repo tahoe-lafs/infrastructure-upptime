@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "84.90%",
-    "uptimeWeek": "77.22%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.20%",
+    "uptimeDay": "84.10%",
+    "uptimeWeek": "77.10%",
+    "uptimeMonth": "93.00%",
+    "uptimeYear": "99.20%",
     "time": 8415,
     "timeDay": 7279,
     "timeWeek": 10127,
     "timeMonth": 8709,
     "timeYear": 8415,
     "dailyMinutesDown": {
-      "2025-11-21": 217,
+      "2025-11-21": 229,
       "2025-11-20": 10,
       "2025-11-19": 285,
       "2025-11-18": 349,
@@ -38,11 +38,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "81.53%",
+    "uptimeDay": "81.47%",
     "uptimeWeek": "77.16%",
-    "uptimeMonth": "93.60%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "99.27%",
     "time": 8120,
     "timeDay": 6957,
@@ -50,7 +50,7 @@
     "timeMonth": 8478,
     "timeYear": 8120,
     "dailyMinutesDown": {
-      "2025-11-21": 250,
+      "2025-11-21": 251,
       "2025-11-20": 64,
       "2025-11-19": 278,
       "2025-11-18": 274,
@@ -64,7 +64,7 @@
       "2025-11-10": 24,
       "2025-11-09": 51,
       "2025-11-08": 215,
-      "2025-11-07": 83
+      "2025-11-07": 72
     }
   },
   {
@@ -72,11 +72,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "85.38%",
+    "uptimeDay": "85.34%",
     "uptimeWeek": "79.62%",
-    "uptimeMonth": "94.01%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.32%",
     "time": 7282,
     "timeDay": 6242,
@@ -84,7 +84,7 @@
     "timeMonth": 7592,
     "timeYear": 7282,
     "dailyMinutesDown": {
-      "2025-11-21": 194,
+      "2025-11-21": 195,
       "2025-11-20": 39,
       "2025-11-19": 167,
       "2025-11-18": 290,
@@ -97,7 +97,7 @@
       "2025-11-10": 33,
       "2025-11-09": 119,
       "2025-11-08": 123,
-      "2025-11-07": 208
+      "2025-11-07": 196
     }
   },
   {
