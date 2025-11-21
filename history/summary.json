@@ -4,11 +4,11 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "93.10%",
+    "uptimeDay": "93.09%",
     "uptimeWeek": "78.28%",
-    "uptimeMonth": "93.03%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.21%",
     "time": 8408,
     "timeDay": 5359,
@@ -30,7 +30,7 @@
       "2025-11-09": 111,
       "2025-11-08": 137,
       "2025-11-07": 314,
-      "2025-11-06": 131
+      "2025-11-06": 104
     }
   },
   {
@@ -38,17 +38,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "89.36%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "89.33%",
     "uptimeWeek": "78.42%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "99.28%",
-    "time": 8120,
-    "timeDay": 6078,
-    "timeWeek": 9794,
-    "timeMonth": 8483,
-    "timeYear": 8120,
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "99.29%",
+    "time": 8117,
+    "timeDay": 5886,
+    "timeWeek": 9710,
+    "timeMonth": 8470,
+    "timeYear": 8117,
     "dailyMinutesDown": {
       "2025-11-21": 122,
       "2025-11-20": 64,
@@ -64,7 +64,7 @@
       "2025-11-10": 24,
       "2025-11-09": 51,
       "2025-11-08": 215,
-      "2025-11-07": 162
+      "2025-11-07": 143
     }
   },
   {
@@ -72,19 +72,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "92.24%",
+    "uptimeDay": "92.20%",
     "uptimeWeek": "80.60%",
-    "uptimeMonth": "94.04%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "99.32%",
-    "time": 7276,
-    "timeDay": 4585,
-    "timeWeek": 7684,
-    "timeMonth": 7583,
-    "timeYear": 7276,
+    "time": 7273,
+    "timeDay": 4299,
+    "timeWeek": 7596,
+    "timeMonth": 7569,
+    "timeYear": 7273,
     "dailyMinutesDown": {
-      "2025-11-21": 95,
+      "2025-11-21": 96,
       "2025-11-20": 39,
       "2025-11-19": 167,
       "2025-11-18": 290,
@@ -98,7 +98,7 @@
       "2025-11-09": 119,
       "2025-11-08": 123,
       "2025-11-07": 253,
-      "2025-11-06": 40
+      "2025-11-06": 31
     }
   },
   {
