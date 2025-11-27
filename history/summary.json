@@ -4,17 +4,17 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "95.28%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "89.37%",
+    "uptimeMonth": "95.30%",
     "uptimeYear": "99.48%",
-    "time": 8372,
-    "timeDay": 7690,
-    "timeWeek": 7404,
-    "timeMonth": 8453,
-    "timeYear": 8372,
+    "time": 8369,
+    "timeDay": 7200,
+    "timeWeek": 7355,
+    "timeMonth": 8421,
+    "timeYear": 8369,
     "dailyMinutesDown": {
       "2025-11-27": 74,
       "2025-11-26": 52,
@@ -27,7 +27,7 @@
       "2025-11-19": 285,
       "2025-11-18": 349,
       "2025-11-17": 20,
-      "2025-11-16": 332
+      "2025-11-16": 323
     }
   },
   {
@@ -35,19 +35,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "88.68%",
-    "uptimeMonth": "95.83%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "95.85%",
     "uptimeYear": "99.54%",
-    "time": 8059,
-    "timeDay": 5293,
-    "timeWeek": 6532,
-    "timeMonth": 8287,
-    "timeYear": 8059,
+    "time": 8056,
+    "timeDay": 4943,
+    "timeWeek": 6576,
+    "timeMonth": 8262,
+    "timeYear": 8056,
     "dailyMinutesDown": {
-      "2025-11-27": 83,
+      "2025-11-27": 84,
       "2025-11-26": 28,
       "2025-11-25": 88,
       "2025-11-24": 198,
@@ -58,7 +58,7 @@
       "2025-11-19": 278,
       "2025-11-18": 274,
       "2025-11-17": 10,
-      "2025-11-16": 93
+      "2025-11-16": 84
     }
   },
   {
@@ -75,7 +75,7 @@
     "time": 7205,
     "timeDay": 1925,
     "timeWeek": 5399,
-    "timeMonth": 7195,
+    "timeMonth": 7188,
     "timeYear": 7205,
     "dailyMinutesDown": {
       "2025-11-27": 78,
