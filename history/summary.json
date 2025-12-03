@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "81.00%",
-    "uptimeWeek": "91.38%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "80.94%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "99.67%",
     "time": 8299,
     "timeDay": 9700,
-    "timeWeek": 6534,
+    "timeWeek": 6580,
     "timeMonth": 8035,
     "timeYear": 8299,
     "dailyMinutesDown": {
-      "2025-12-03": 190,
+      "2025-12-03": 191,
       "2025-12-02": 83,
       "2025-12-01": 82,
       "2025-11-30": 175,
@@ -27,7 +27,7 @@
       "2025-11-25": 106,
       "2025-11-24": 159,
       "2025-11-23": 25,
-      "2025-11-22": 181
+      "2025-11-22": 168
     }
   },
   {
@@ -35,19 +35,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "81.15%",
-    "uptimeWeek": "85.85%",
-    "uptimeMonth": "95.85%",
+    "uptimeDay": "81.10%",
+    "uptimeWeek": "85.84%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "99.55%",
     "time": 7974,
-    "timeDay": 10873,
-    "timeWeek": 5987,
-    "timeMonth": 7920,
+    "timeDay": 10819,
+    "timeWeek": 6014,
+    "timeMonth": 7923,
     "timeYear": 7974,
     "dailyMinutesDown": {
-      "2025-12-03": 114,
+      "2025-12-03": 115,
       "2025-12-02": 159,
       "2025-12-01": 492,
       "2025-11-30": 269,
@@ -58,7 +58,7 @@
       "2025-11-25": 88,
       "2025-11-24": 198,
       "2025-11-23": 25,
-      "2025-11-22": 81
+      "2025-11-22": 72
     }
   },
   {
@@ -75,7 +75,7 @@
     "time": 7094,
     "timeDay": 5857,
     "timeWeek": 3957,
-    "timeMonth": 6616,
+    "timeMonth": 6597,
     "timeYear": 7094,
     "dailyMinutesDown": {
       "2025-12-03": 45,
