@@ -6,17 +6,17 @@
     "slug": "web",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "89.30%",
-    "uptimeMonth": "96.62%",
+    "uptimeDay": "86.26%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "99.64%",
-    "time": 8295,
+    "time": 8299,
     "timeDay": 6903,
-    "timeWeek": 7213,
-    "timeMonth": 7925,
-    "timeYear": 8295,
+    "timeWeek": 7313,
+    "timeMonth": 7950,
+    "timeYear": 8299,
     "dailyMinutesDown": {
-      "2025-12-05": 188,
+      "2025-12-05": 189,
       "2025-12-04": 63,
       "2025-12-03": 389,
       "2025-12-02": 83,
@@ -27,7 +27,7 @@
       "2025-11-27": 129,
       "2025-11-26": 52,
       "2025-11-25": 106,
-      "2025-11-24": 42
+      "2025-11-24": 30
     }
   },
   {
@@ -44,7 +44,7 @@
     "time": 7980,
     "timeDay": 9041,
     "timeWeek": 7140,
-    "timeMonth": 7824,
+    "timeMonth": 7811,
     "timeYear": 7980,
     "dailyMinutesDown": {
       "2025-12-05": 125,
@@ -75,7 +75,7 @@
     "time": 7065,
     "timeDay": 2153,
     "timeWeek": 4594,
-    "timeMonth": 6175,
+    "timeMonth": 6189,
     "timeYear": 7065,
     "dailyMinutesDown": {
       "2025-12-05": 95,
