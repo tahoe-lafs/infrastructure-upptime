@@ -13,7 +13,7 @@
     "time": 8295,
     "timeDay": 7635,
     "timeWeek": 7231,
-    "timeMonth": 7934,
+    "timeMonth": 7907,
     "timeYear": 8295,
     "dailyMinutesDown": {
       "2025-12-05": 217,
@@ -35,11 +35,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "90.60%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "90.58%",
+    "uptimeWeek": "85.72%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "99.55%",
     "time": 7985,
     "timeDay": 10209,
@@ -47,6 +47,7 @@
     "timeMonth": 7826,
     "timeYear": 7985,
     "dailyMinutesDown": {
+      "2025-12-06": 0,
       "2025-12-05": 136,
       "2025-12-04": 42,
       "2025-12-03": 252,
@@ -57,8 +58,7 @@
       "2025-11-28": 119,
       "2025-11-27": 155,
       "2025-11-26": 28,
-      "2025-11-25": 88,
-      "2025-11-24": 9
+      "2025-11-25": 88
     }
   },
   {
@@ -66,18 +66,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "92.11%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "92.09%",
     "uptimeWeek": "92.54%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "99.57%",
-    "time": 7071,
-    "timeDay": 4463,
-    "timeWeek": 4692,
-    "timeMonth": 6215,
-    "timeYear": 7071,
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "99.58%",
+    "time": 7070,
+    "timeDay": 4520,
+    "timeWeek": 4697,
+    "timeMonth": 6212,
+    "timeYear": 7070,
     "dailyMinutesDown": {
+      "2025-12-06": 0,
       "2025-12-05": 113,
       "2025-12-04": 14,
       "2025-12-03": 177,
@@ -92,7 +93,7 @@
       "2025-11-24": 159,
       "2025-11-23": 37,
       "2025-11-22": 304,
-      "2025-11-21": 127
+      "2025-11-21": 114
     }
   },
   {
