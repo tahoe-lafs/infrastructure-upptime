@@ -13,7 +13,7 @@
     "time": 8366,
     "timeDay": 6922,
     "timeWeek": 7677,
-    "timeMonth": 8150,
+    "timeMonth": 8130,
     "timeYear": 8366,
     "dailyMinutesDown": {
       "2025-12-21": 57,
@@ -36,17 +36,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "93.91%",
-    "uptimeWeek": "88.38%",
-    "uptimeMonth": "95.31%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "88.42%",
+    "uptimeMonth": "95.33%",
     "uptimeYear": "99.52%",
-    "time": 8061,
-    "timeDay": 6752,
-    "timeWeek": 7930,
-    "timeMonth": 7806,
-    "timeYear": 8061,
+    "time": 8060,
+    "timeDay": 6544,
+    "timeWeek": 7946,
+    "timeMonth": 7812,
+    "timeYear": 8060,
     "dailyMinutesDown": {
       "2025-12-21": 53,
       "2025-12-20": 77,
@@ -58,8 +58,7 @@
       "2025-12-14": 284,
       "2025-12-13": 196,
       "2025-12-11": 230,
-      "2025-12-10": 218,
-      "2025-12-09": 8
+      "2025-12-10": 218
     }
   },
   {
@@ -67,17 +66,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "99.55%",
-    "time": 7019,
-    "timeDay": 6591,
-    "timeWeek": 5396,
-    "timeMonth": 5691,
-    "timeYear": 7019,
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "99.56%",
+    "time": 7016,
+    "timeDay": 5519,
+    "timeWeek": 5326,
+    "timeMonth": 5678,
+    "timeYear": 7016,
     "dailyMinutesDown": {
       "2025-12-21": 13,
       "2025-12-20": 104,
@@ -93,7 +92,7 @@
       "2025-12-09": 114,
       "2025-12-08": 122,
       "2025-12-07": 36,
-      "2025-12-06": 311
+      "2025-12-06": 246
     }
   },
   {
