@@ -13,7 +13,7 @@
     "time": 8367,
     "timeDay": 9415,
     "timeWeek": 8183,
-    "timeMonth": 8337,
+    "timeMonth": 8332,
     "timeYear": 8367,
     "dailyMinutesDown": {
       "2025-12-27": 116,
@@ -35,17 +35,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "86.59%",
+    "uptimeDay": "86.56%",
     "uptimeWeek": "90.01%",
-    "uptimeMonth": "95.29%",
+    "uptimeMonth": "95.31%",
     "uptimeYear": "99.53%",
-    "time": 8067,
-    "timeDay": 8286,
-    "timeWeek": 8039,
-    "timeMonth": 8064,
-    "timeYear": 8067,
+    "time": 8065,
+    "timeDay": 7879,
+    "timeWeek": 7968,
+    "timeMonth": 8050,
+    "timeYear": 8065,
     "dailyMinutesDown": {
       "2025-12-27": 184,
       "2025-12-26": 222,
@@ -60,7 +60,7 @@
       "2025-12-17": 482,
       "2025-12-16": 123,
       "2025-12-15": 161,
-      "2025-12-14": 22
+      "2025-12-14": 14
     }
   },
   {
@@ -68,19 +68,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "80.34%",
+    "uptimeDay": "80.30%",
     "uptimeWeek": "90.22%",
-    "uptimeMonth": "95.97%",
+    "uptimeMonth": "95.99%",
     "uptimeYear": "99.60%",
-    "time": 7004,
-    "timeDay": 7814,
-    "timeWeek": 6660,
-    "timeMonth": 5862,
-    "timeYear": 7004,
+    "time": 7002,
+    "timeDay": 7503,
+    "timeWeek": 6604,
+    "timeMonth": 5849,
+    "timeYear": 7002,
     "dailyMinutesDown": {
-      "2025-12-27": 275,
+      "2025-12-27": 276,
       "2025-12-26": 184,
       "2025-12-25": 191,
       "2025-12-24": 45,
@@ -93,8 +93,7 @@
       "2025-12-17": 115,
       "2025-12-16": 89,
       "2025-12-15": 67,
-      "2025-12-14": 265,
-      "2025-12-13": 9
+      "2025-12-14": 265
     }
   },
   {
