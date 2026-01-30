@@ -13,7 +13,7 @@
     "time": 8323,
     "timeDay": 8350,
     "timeWeek": 7357,
-    "timeMonth": 8075,
+    "timeMonth": 8057,
     "timeYear": 8323,
     "dailyMinutesDown": {
       "2026-01-30": 131,
@@ -39,17 +39,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "93.62%",
+    "uptimeDay": "93.59%",
     "uptimeWeek": "96.94%",
-    "uptimeMonth": "94.24%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.48%",
-    "time": 8055,
-    "timeDay": 6697,
-    "timeWeek": 5729,
-    "timeMonth": 7889,
-    "timeYear": 8055,
+    "time": 8053,
+    "timeDay": 6176,
+    "timeWeek": 5558,
+    "timeMonth": 7844,
+    "timeYear": 8053,
     "dailyMinutesDown": {
       "2026-01-30": 92,
       "2026-01-29": 37,
@@ -67,7 +67,7 @@
       "2026-01-13": 11,
       "2026-01-12": 48,
       "2026-01-11": 259,
-      "2026-01-10": 17
+      "2026-01-10": 4
     }
   },
   {
@@ -75,19 +75,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "94.19%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.48%",
-    "time": 7010,
-    "timeDay": 9739,
-    "timeWeek": 7136,
-    "timeMonth": 6968,
-    "timeYear": 7010,
+    "time": 7008,
+    "timeDay": 8932,
+    "timeWeek": 6892,
+    "timeMonth": 6945,
+    "timeYear": 7008,
     "dailyMinutesDown": {
-      "2026-01-30": 63,
+      "2026-01-30": 64,
       "2026-01-29": 87,
       "2026-01-27": 146,
       "2026-01-25": 11,
@@ -104,7 +104,7 @@
       "2026-01-12": 140,
       "2026-01-11": 138,
       "2026-01-10": 146,
-      "2026-01-09": 46
+      "2026-01-09": 31
     }
   },
   {
