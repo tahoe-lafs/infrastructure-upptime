@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "0.81%",
-    "uptimeWeek": "74.50%",
-    "uptimeMonth": "88.98%",
-    "uptimeYear": "99.01%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "1.86%",
+    "uptimeWeek": "74.60%",
+    "uptimeMonth": "89.01%",
+    "uptimeYear": "99.02%",
     "time": 8334,
     "timeDay": 20006,
-    "timeWeek": 9986,
+    "timeWeek": 10151,
     "timeMonth": 8150,
     "timeYear": 8334,
     "dailyMinutesDown": {
-      "2026-02-01": 1266,
+      "2026-02-01": 1267,
       "2026-01-31": 994,
       "2026-01-30": 131,
       "2026-01-29": 58,
@@ -33,7 +33,7 @@
       "2026-01-14": 93,
       "2026-01-13": 43,
       "2026-01-12": 144,
-      "2026-01-11": 92
+      "2026-01-11": 79
     }
   },
   {
@@ -44,8 +44,8 @@
     "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "7.49%",
-    "uptimeWeek": "74.86%",
-    "uptimeMonth": "89.64%",
+    "uptimeWeek": "74.70%",
+    "uptimeMonth": "89.61%",
     "uptimeYear": "99.07%",
     "time": 8061,
     "timeDay": 12840,
@@ -53,7 +53,7 @@
     "timeMonth": 7867,
     "timeYear": 8061,
     "dailyMinutesDown": {
-      "2026-02-01": 1181,
+      "2026-02-01": 1197,
       "2026-01-31": 1044,
       "2026-01-30": 105,
       "2026-01-29": 37,
@@ -78,11 +78,11 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "12.40%",
+    "uptimeDay": "12.78%",
     "uptimeWeek": "75.99%",
-    "uptimeMonth": "89.98%",
+    "uptimeMonth": "90.00%",
     "uptimeYear": "99.10%",
     "time": 7034,
     "timeDay": 12921,
@@ -90,7 +90,7 @@
     "timeMonth": 7188,
     "timeYear": 7034,
     "dailyMinutesDown": {
-      "2026-02-01": 1120,
+      "2026-02-01": 1121,
       "2026-01-31": 990,
       "2026-01-30": 76,
       "2026-01-29": 87,
@@ -107,7 +107,7 @@
       "2026-01-14": 80,
       "2026-01-13": 96,
       "2026-01-12": 140,
-      "2026-01-11": 45
+      "2026-01-11": 36
     }
   },
   {
