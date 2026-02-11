@@ -13,7 +13,7 @@
     "time": 8339,
     "timeDay": 889,
     "timeWeek": 3890,
-    "timeMonth": 8413,
+    "timeMonth": 8409,
     "timeYear": 8339,
     "dailyMinutesDown": {
       "2026-02-05": 25,
@@ -40,18 +40,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.47%",
-    "uptimeYear": "98.73%",
-    "time": 8049,
-    "timeDay": 947,
-    "timeWeek": 3250,
-    "timeMonth": 7740,
-    "timeYear": 8049,
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "85.51%",
+    "uptimeYear": "98.74%",
+    "time": 8047,
+    "timeDay": 683,
+    "timeWeek": 2896,
+    "timeMonth": 7687,
+    "timeYear": 8047,
     "dailyMinutesDown": {
+      "2026-02-11": 1,
       "2026-02-03": 719,
       "2026-02-02": 1248,
       "2026-02-01": 1328,
@@ -67,7 +68,7 @@
       "2026-01-19": 32,
       "2026-01-17": 338,
       "2026-01-16": 211,
-      "2026-01-15": 67
+      "2026-01-15": 47
     }
   },
   {
@@ -84,7 +85,7 @@
     "time": 7023,
     "timeDay": 195,
     "timeWeek": 1890,
-    "timeMonth": 7155,
+    "timeMonth": 7124,
     "timeYear": 7023,
     "dailyMinutesDown": {
       "2026-02-11": 25,
