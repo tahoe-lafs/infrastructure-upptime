@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "85.04%",
-    "uptimeWeek": "90.71%",
+    "uptimeDay": "84.98%",
+    "uptimeWeek": "90.70%",
     "uptimeMonth": "95.35%",
     "uptimeYear": "99.39%",
-    "time": 8239,
-    "timeDay": 3952,
-    "timeWeek": 7439,
-    "timeMonth": 6477,
+    "time": 8240,
+    "timeDay": 4305,
+    "timeWeek": 7471,
+    "timeMonth": 6495,
     "timeYear": 8268,
     "dailyMinutesDown": {
-      "2026-03-10": 188,
+      "2026-03-10": 189,
       "2026-03-09": 166,
       "2026-03-08": 137,
       "2026-03-07": 136,
@@ -41,7 +41,7 @@
       "2026-02-12": 35,
       "2026-02-05": 25,
       "2026-02-03": 728,
-      "2026-02-02": 429
+      "2026-02-02": 415
     }
   },
   {
@@ -49,19 +49,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "85.16%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "85.11%",
     "uptimeWeek": "88.71%",
     "uptimeMonth": "94.97%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.20%",
     "time": 7938,
     "timeDay": 5874,
     "timeWeek": 6279,
     "timeMonth": 5864,
     "timeYear": 7963,
     "dailyMinutesDown": {
-      "2026-03-10": 183,
+      "2026-03-10": 184,
       "2026-03-09": 279,
       "2026-03-08": 114,
       "2026-03-07": 115,
@@ -83,7 +83,7 @@
       "2026-02-11": 23,
       "2026-02-03": 719,
       "2026-02-02": 1248,
-      "2026-02-01": 692
+      "2026-02-01": 11
     }
   },
   {
