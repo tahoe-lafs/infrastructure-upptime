@@ -4,11 +4,11 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.44%",
-    "uptimeMonth": "94.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "95.02%",
     "uptimeYear": "99.58%",
     "time": 8218,
     "timeDay": 2098,
@@ -16,6 +16,7 @@
     "timeMonth": 6426,
     "timeYear": 8248,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-12": 25,
       "2026-03-11": 256,
       "2026-03-10": 247,
@@ -38,7 +39,7 @@
       "2026-02-17": 22,
       "2026-02-16": 24,
       "2026-02-15": 31,
-      "2026-02-14": 27
+      "2026-02-14": 13
     }
   },
   {
@@ -48,9 +49,9 @@
     "slug": "tickets",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "89.58%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "89.38%",
+    "uptimeMonth": "94.59%",
     "uptimeYear": "99.51%",
     "time": 7922,
     "timeDay": 3993,
@@ -58,7 +59,7 @@
     "timeMonth": 5796,
     "timeYear": 7951,
     "dailyMinutesDown": {
-      "2026-03-13": 44,
+      "2026-03-13": 64,
       "2026-03-12": 59,
       "2026-03-11": 216,
       "2026-03-10": 222,
@@ -88,19 +89,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "91.31%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "99.13%",
     "time": 6877,
     "timeDay": 5287,
     "timeWeek": 3690,
     "timeMonth": 4010,
     "timeYear": 6910,
     "dailyMinutesDown": {
-      "2026-03-13": 21,
+      "2026-03-13": 22,
       "2026-03-12": 25,
       "2026-03-11": 440,
       "2026-03-10": 102,
@@ -126,7 +127,7 @@
       "2026-02-11": 25,
       "2026-02-03": 678,
       "2026-02-02": 1198,
-      "2026-02-01": 763
+      "2026-02-01": 644
     }
   },
   {
