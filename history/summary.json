@@ -13,7 +13,7 @@
     "time": 8217,
     "timeDay": 10288,
     "timeWeek": 8154,
-    "timeMonth": 6930,
+    "timeMonth": 6941,
     "timeYear": 8256,
     "dailyMinutesDown": {
       "2026-03-19": 626,
@@ -54,7 +54,7 @@
     "time": 7897,
     "timeDay": 9252,
     "timeWeek": 6254,
-    "timeMonth": 5945,
+    "timeMonth": 5964,
     "timeYear": 7937,
     "dailyMinutesDown": {
       "2026-03-19": 591,
@@ -87,7 +87,7 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "24.34%",
+    "uptimeDay": "27.62%",
     "uptimeWeek": "81.68%",
     "uptimeMonth": "92.14%",
     "uptimeYear": "99.28%",
