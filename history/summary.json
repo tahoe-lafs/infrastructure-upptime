@@ -4,17 +4,17 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "51.52%",
-    "uptimeMonth": "83.91%",
-    "uptimeYear": "97.93%",
-    "time": 8164,
-    "timeDay": 1147,
-    "timeWeek": 6260,
-    "timeMonth": 6850,
-    "timeYear": 8235,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "50.73%",
+    "uptimeMonth": "83.73%",
+    "uptimeYear": "97.92%",
+    "time": 8168,
+    "timeDay": 5869,
+    "timeWeek": 6793,
+    "timeMonth": 6954,
+    "timeYear": 8237,
     "dailyMinutesDown": {
       "2026-04-02": 20,
       "2026-04-03": 47,
@@ -56,7 +56,7 @@
       "2026-05-23": 1378,
       "2026-05-27": 4,
       "2026-05-28": 82,
-      "2026-05-29": 1
+      "2026-05-29": 81
     }
   },
   {
@@ -64,17 +64,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "47.01%",
-    "uptimeMonth": "83.35%",
-    "uptimeYear": "98.15%",
-    "time": 7814,
-    "timeDay": 3074,
-    "timeWeek": 6017,
-    "timeMonth": 7195,
-    "timeYear": 7903,
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "46.21%",
+    "uptimeMonth": "83.16%",
+    "uptimeYear": "98.14%",
+    "time": 7818,
+    "timeDay": 5863,
+    "timeWeek": 6629,
+    "timeMonth": 7325,
+    "timeYear": 7905,
     "dailyMinutesDown": {
       "2026-03-31": 50,
       "2026-04-01": 19,
@@ -117,7 +117,7 @@
       "2026-05-23": 1373,
       "2026-05-27": 47,
       "2026-05-28": 133,
-      "2026-05-29": 1
+      "2026-05-29": 81
     }
   },
   {
@@ -125,17 +125,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "95.45%",
-    "uptimeYear": "98.82%",
-    "time": 6822,
-    "timeDay": 3394,
-    "timeWeek": 5935,
-    "timeMonth": 7179,
-    "timeYear": 6962,
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "98.81%",
+    "time": 6827,
+    "timeDay": 6111,
+    "timeWeek": 6517,
+    "timeMonth": 7330,
+    "timeYear": 6965,
     "dailyMinutesDown": {
       "2026-03-21": 79,
       "2026-03-22": 414,
@@ -183,7 +183,7 @@
       "2026-05-27": 73,
       "2026-05-26": 23,
       "2026-05-28": 132,
-      "2026-05-29": 1
+      "2026-05-29": 81
     }
   }
 ]
