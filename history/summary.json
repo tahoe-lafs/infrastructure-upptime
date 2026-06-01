@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.74%",
+    "uptimeWeek": "92.87%",
     "uptimeMonth": "84.39%",
     "uptimeYear": "97.92%",
     "time": 8177,
     "timeDay": 17070,
     "timeWeek": 7647,
     "timeMonth": 7750,
-    "timeYear": 8255,
+    "timeYear": 8256,
     "dailyMinutesDown": {
       "2026-04-02": 20,
       "2026-04-03": 47,
@@ -64,17 +64,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.05%",
     "uptimeWeek": "88.17%",
-    "uptimeMonth": "83.73%",
+    "uptimeMonth": "83.70%",
     "uptimeYear": "98.14%",
-    "time": 7822,
-    "timeDay": 774,
-    "timeWeek": 6592,
-    "timeMonth": 7464,
-    "timeYear": 7918,
+    "time": 7825,
+    "timeDay": 8081,
+    "timeWeek": 7055,
+    "timeMonth": 7586,
+    "timeYear": 7920,
     "dailyMinutesDown": {
       "2026-03-31": 31,
       "2026-04-01": 19,
@@ -118,7 +118,7 @@
       "2026-05-27": 47,
       "2026-05-28": 133,
       "2026-05-29": 81,
-      "2026-06-01": 1
+      "2026-06-01": 14
     }
   },
   {
@@ -126,17 +126,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "98.77%",
-    "time": 6830,
-    "timeDay": 377,
-    "timeWeek": 7109,
-    "timeMonth": 7074,
-    "timeYear": 6975,
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "93.59%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "98.76%",
+    "time": 6834,
+    "timeDay": 7730,
+    "timeWeek": 7394,
+    "timeMonth": 7178,
+    "timeYear": 6977,
     "dailyMinutesDown": {
       "2026-03-22": 384,
       "2026-03-23": 368,
@@ -185,7 +185,7 @@
       "2026-05-28": 132,
       "2026-05-29": 270,
       "2026-05-30": 133,
-      "2026-06-01": 1
+      "2026-06-01": 14
     }
   }
 ]
