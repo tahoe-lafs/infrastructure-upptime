@@ -4,17 +4,17 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "94.55%",
-    "uptimeWeek": "91.13%",
-    "uptimeMonth": "85.63%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "90.83%",
+    "uptimeMonth": "85.57%",
     "uptimeYear": "97.80%",
-    "time": 8306,
-    "timeDay": 5641,
-    "timeWeek": 10166,
-    "timeMonth": 10017,
-    "timeYear": 8348,
+    "time": 8309,
+    "timeDay": 6866,
+    "timeWeek": 10252,
+    "timeMonth": 10052,
+    "timeYear": 8349,
     "dailyMinutesDown": {
       "2026-04-08": 101,
       "2026-04-09": 155,
@@ -61,7 +61,8 @@
       "2026-06-16": 230,
       "2026-06-17": 95,
       "2026-06-19": 414,
-      "2026-06-20": 79
+      "2026-06-20": 95,
+      "2026-06-21": 14
     }
   },
   {
@@ -69,17 +70,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
+    "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "88.02%",
-    "uptimeWeek": "91.99%",
-    "uptimeMonth": "84.54%",
+    "uptimeDay": "85.92%",
+    "uptimeWeek": "91.69%",
+    "uptimeMonth": "84.47%",
     "uptimeYear": "97.98%",
-    "time": 7948,
-    "timeDay": 8180,
-    "timeWeek": 9990,
-    "timeMonth": 8597,
-    "timeYear": 7998,
+    "time": 7951,
+    "timeDay": 8938,
+    "timeWeek": 10081,
+    "timeMonth": 8647,
+    "timeYear": 8000,
     "dailyMinutesDown": {
       "2026-04-05": 19,
       "2026-04-06": 47,
@@ -128,7 +129,8 @@
       "2026-06-17": 160,
       "2026-06-18": 195,
       "2026-06-19": 248,
-      "2026-06-20": 173
+      "2026-06-20": 189,
+      "2026-06-21": 14
     }
   },
   {
@@ -136,17 +138,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "96.69%",
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "90.41%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "96.62%",
     "uptimeYear": "98.85%",
-    "time": 6974,
-    "timeDay": 10995,
-    "timeWeek": 10129,
-    "timeMonth": 8170,
-    "timeYear": 7094,
+    "time": 6979,
+    "timeDay": 11597,
+    "timeWeek": 10349,
+    "timeMonth": 8254,
+    "timeYear": 7096,
     "dailyMinutesDown": {
       "2026-03-27": 204,
       "2026-03-28": 77,
@@ -200,7 +202,8 @@
       "2026-06-17": 72,
       "2026-06-18": 13,
       "2026-06-19": 109,
-      "2026-06-20": 109
+      "2026-06-20": 124,
+      "2026-06-21": 15
     }
   }
 ]
