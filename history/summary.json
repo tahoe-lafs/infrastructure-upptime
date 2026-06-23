@@ -4,17 +4,17 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "87.12%",
-    "uptimeYear": "97.78%",
-    "time": 8317,
-    "timeDay": 7641,
-    "timeWeek": 9026,
-    "timeMonth": 9904,
-    "timeYear": 8355,
+    "status": "up",
+    "uptime": "98.31%",
+    "uptimeDay": "92.15%",
+    "uptimeWeek": "90.22%",
+    "uptimeMonth": "87.13%",
+    "uptimeYear": "97.77%",
+    "time": 8325,
+    "timeDay": 13906,
+    "timeWeek": 9775,
+    "timeMonth": 10213,
+    "timeYear": 8364,
     "dailyMinutesDown": {
       "2026-04-09": 22,
       "2026-04-10": 209,
@@ -62,7 +62,7 @@
       "2026-06-19": 414,
       "2026-06-20": 95,
       "2026-06-21": 270,
-      "2026-06-23": 68
+      "2026-06-23": 113
     }
   },
   {
@@ -74,7 +74,7 @@
     "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.45%",
-    "uptimeMonth": "86.43%",
+    "uptimeMonth": "86.53%",
     "uptimeYear": "97.95%",
     "time": 7957,
     "timeDay": 13892,
@@ -138,17 +138,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "95.95%",
-    "uptimeYear": "98.83%",
-    "time": 6984,
-    "timeDay": 8074,
-    "timeWeek": 9432,
-    "timeMonth": 8083,
-    "timeYear": 7101,
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "98.82%",
+    "time": 6988,
+    "timeDay": 12264,
+    "timeWeek": 9794,
+    "timeMonth": 8217,
+    "timeYear": 7106,
     "dailyMinutesDown": {
       "2026-03-28": 77,
       "2026-03-30": 21,
@@ -204,7 +204,7 @@
       "2026-06-20": 124,
       "2026-06-21": 79,
       "2026-06-22": 226,
-      "2026-06-23": 1
+      "2026-06-23": 46
     }
   }
 ]
