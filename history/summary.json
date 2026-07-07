@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "98.29%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "92.24%",
-    "uptimeMonth": "92.60%",
-    "uptimeYear": "97.68%",
+    "uptime": "98.26%",
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "90.48%",
+    "uptimeMonth": "92.20%",
+    "uptimeYear": "97.65%",
     "time": 8342,
     "timeDay": 7923,
     "timeWeek": 11236,
@@ -64,7 +64,7 @@
       "2026-07-03": 226,
       "2026-07-04": 207,
       "2026-07-05": 226,
-      "2026-07-07": 1
+      "2026-07-07": 177
     }
   },
   {
@@ -73,11 +73,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "91.90%",
-    "uptimeMonth": "93.12%",
-    "uptimeYear": "97.80%",
+    "uptime": "98.35%",
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "90.14%",
+    "uptimeMonth": "92.72%",
+    "uptimeYear": "97.76%",
     "time": 7944,
     "timeDay": 6143,
     "timeWeek": 8659,
@@ -130,7 +130,7 @@
       "2026-07-03": 346,
       "2026-07-04": 73,
       "2026-07-05": 186,
-      "2026-07-07": 1
+      "2026-07-07": 177
     }
   },
   {
@@ -139,15 +139,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "95.18%",
-    "uptimeYear": "98.71%",
+    "uptime": "99.02%",
+    "uptimeDay": "71.73%",
+    "uptimeWeek": "92.05%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "98.67%",
     "time": 7067,
     "timeDay": 8017,
     "timeWeek": 9838,
-    "timeMonth": 8997,
+    "timeMonth": 9089,
     "timeYear": 7159,
     "dailyMinutesDown": {
       "2026-04-08": 33,
@@ -209,7 +209,7 @@
       "2026-07-04": 13,
       "2026-07-05": 216,
       "2026-07-06": 230,
-      "2026-07-07": 1
+      "2026-07-07": 177
     }
   }
 ]
