@@ -4,19 +4,19 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "90.57%",
-    "uptimeYear": "97.70%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "97.71%",
     "time": 8388,
     "timeDay": 42515,
     "timeWeek": 14924,
     "timeMonth": 10823,
     "timeYear": 8457,
     "dailyMinutesDown": {
-      "2026-04-27": 85,
+      "2026-04-27": 50,
       "2026-04-28": 126,
       "2026-04-29": 134,
       "2026-04-30": 163,
@@ -68,7 +68,8 @@
       "2026-07-10": 357,
       "2026-07-11": 50,
       "2026-07-12": 211,
-      "2026-07-13": 256
+      "2026-07-13": 256,
+      "2026-07-15": 3
     }
   },
   {
@@ -79,12 +80,12 @@
     "status": "up",
     "uptime": "98.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.66%",
+    "uptimeWeek": "96.83%",
     "uptimeMonth": "91.40%",
     "uptimeYear": "97.65%",
     "time": 7967,
     "timeDay": 24109,
-    "timeWeek": 9993,
+    "timeWeek": 9514,
     "timeMonth": 9312,
     "timeYear": 8052,
     "dailyMinutesDown": {
@@ -143,19 +144,18 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.89%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "96.88%",
     "uptimeMonth": "94.19%",
     "uptimeYear": "98.62%",
-    "time": 7005,
+    "time": 7003,
     "timeDay": 20105,
     "timeWeek": 7376,
     "timeMonth": 9286,
     "timeYear": 7169,
     "dailyMinutesDown": {
-      "2026-04-10": 29,
       "2026-04-11": 87,
       "2026-04-12": 68,
       "2026-04-13": 91,
@@ -217,7 +217,8 @@
       "2026-07-08": 52,
       "2026-07-11": 104,
       "2026-07-12": 81,
-      "2026-07-13": 59
+      "2026-07-13": 59,
+      "2026-07-15": 1
     }
   }
 ]
