@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "97.65%",
+    "uptime": "98.30%",
+    "uptimeDay": "80.73%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "91.76%",
+    "uptimeYear": "97.61%",
     "time": 8460,
     "timeDay": 1504,
     "timeWeek": 6482,
     "timeMonth": 11338,
-    "timeYear": 8488,
+    "timeYear": 8487,
     "dailyMinutesDown": {
       "2026-04-30": 39,
       "2026-05-01": 128,
@@ -76,7 +76,7 @@
       "2026-07-22": 21,
       "2026-07-24": 6,
       "2026-07-25": 64,
-      "2026-07-26": 11
+      "2026-07-26": 214
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeDay": 18167,
     "timeWeek": 5121,
     "timeMonth": 8397,
-    "timeYear": 8061,
+    "timeYear": 8064,
     "dailyMinutesDown": {
       "2026-04-24": 20,
       "2026-04-25": 112,
@@ -160,12 +160,12 @@
     "uptime": "98.96%",
     "uptimeDay": "94.80%",
     "uptimeWeek": "97.46%",
-    "uptimeMonth": "95.07%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "98.54%",
     "time": 7077,
     "timeDay": 20532,
     "timeWeek": 3678,
-    "timeMonth": 8282,
+    "timeMonth": 8326,
     "timeYear": 7195,
     "dailyMinutesDown": {
       "2026-04-13": 43,
