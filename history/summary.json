@@ -6,9 +6,9 @@
     "slug": "web",
     "status": "down",
     "uptime": "98.33%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "92.23%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "92.22%",
     "uptimeYear": "97.65%",
     "time": 8460,
     "timeDay": 1504,
@@ -76,7 +76,7 @@
       "2026-07-22": 21,
       "2026-07-24": 6,
       "2026-07-25": 64,
-      "2026-07-26": 6
+      "2026-07-26": 11
     }
   },
   {
@@ -84,17 +84,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
+    "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "93.12%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "97.57%",
-    "time": 7985,
-    "timeDay": 0,
-    "timeWeek": 3935,
-    "timeMonth": 8284,
-    "timeYear": 8058,
+    "time": 7990,
+    "timeDay": 18167,
+    "timeWeek": 5121,
+    "timeMonth": 8397,
+    "timeYear": 8061,
     "dailyMinutesDown": {
       "2026-04-24": 20,
       "2026-04-25": 112,
@@ -148,7 +148,7 @@
       "2026-07-20": 177,
       "2026-07-21": 165,
       "2026-07-24": 72,
-      "2026-07-26": 3
+      "2026-07-26": 7
     }
   },
   {
@@ -156,17 +156,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "95.08%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "95.07%",
     "uptimeYear": "98.54%",
-    "time": 7071,
-    "timeDay": 0,
-    "timeWeek": 1572,
-    "timeMonth": 8107,
-    "timeYear": 7191,
+    "time": 7077,
+    "timeDay": 20532,
+    "timeWeek": 3678,
+    "timeMonth": 8282,
+    "timeYear": 7195,
     "dailyMinutesDown": {
       "2026-04-13": 43,
       "2026-04-15": 62,
@@ -232,7 +232,7 @@
       "2026-07-17": 195,
       "2026-07-19": 55,
       "2026-07-21": 126,
-      "2026-07-26": 15,
+      "2026-07-26": 19,
       "2026-07-25": 55
     }
   }
