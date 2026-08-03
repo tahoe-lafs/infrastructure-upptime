@@ -4,17 +4,17 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "98.27%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "92.23%",
-    "uptimeYear": "97.53%",
-    "time": 8518,
-    "timeDay": 1441,
-    "timeWeek": 5031,
-    "timeMonth": 10860,
-    "timeYear": 8551,
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "84.95%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "91.74%",
+    "uptimeYear": "97.49%",
+    "time": 8520,
+    "timeDay": 5127,
+    "timeWeek": 5470,
+    "timeMonth": 10881,
+    "timeYear": 8552,
     "dailyMinutesDown": {
       "2026-05-02": 35,
       "2026-05-03": 210,
@@ -78,7 +78,7 @@
       "2026-07-28": 202,
       "2026-07-29": 173,
       "2026-07-30": 140,
-      "2026-08-03": 1
+      "2026-08-03": 217
     }
   },
   {
@@ -86,17 +86,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
-    "uptime": "98.30%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "95.46%",
-    "uptimeYear": "97.57%",
+    "status": "up",
+    "uptime": "98.27%",
+    "uptimeDay": "80.59%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "97.53%",
     "time": 8103,
-    "timeDay": 6223,
-    "timeWeek": 3117,
-    "timeMonth": 7570,
-    "timeYear": 8130,
+    "timeDay": 6491,
+    "timeWeek": 3522,
+    "timeMonth": 7435,
+    "timeYear": 8126,
     "dailyMinutesDown": {
       "2026-04-25": 85,
       "2026-04-26": 90,
@@ -151,7 +151,7 @@
       "2026-07-24": 72,
       "2026-07-26": 7,
       "2026-08-02": 63,
-      "2026-08-03": 1
+      "2026-08-03": 217
     }
   },
   {
@@ -169,7 +169,7 @@
     "timeDay": 2298,
     "timeWeek": 2328,
     "timeMonth": 6712,
-    "timeYear": 7221,
+    "timeYear": 7220,
     "dailyMinutesDown": {
       "2026-04-15": 62,
       "2026-04-16": 56,
