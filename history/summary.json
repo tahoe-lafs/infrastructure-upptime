@@ -4,17 +4,17 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "97.46%",
-    "time": 8570,
-    "timeDay": 6326,
-    "timeWeek": 3793,
-    "timeMonth": 10533,
-    "timeYear": 8503,
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "92.57%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "92.16%",
+    "uptimeYear": "97.44%",
+    "time": 8572,
+    "timeDay": 7260,
+    "timeWeek": 4751,
+    "timeMonth": 10636,
+    "timeYear": 8506,
     "dailyMinutesDown": {
       "2026-05-03": 203,
       "2026-05-04": 85,
@@ -79,7 +79,7 @@
       "2026-07-30": 140,
       "2026-08-03": 217,
       "2026-08-04": 150,
-      "2026-08-05": 1
+      "2026-08-05": 107
     }
   },
   {
@@ -87,17 +87,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "94.82%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "97.50%",
-    "time": 8107,
-    "timeDay": 2289,
-    "timeWeek": 4552,
-    "timeMonth": 6977,
-    "timeYear": 8069,
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "97.48%",
+    "time": 8110,
+    "timeDay": 7022,
+    "timeWeek": 5254,
+    "timeMonth": 7240,
+    "timeYear": 8072,
     "dailyMinutesDown": {
       "2026-04-26": 90,
       "2026-04-27": 152,
@@ -152,7 +152,7 @@
       "2026-07-26": 7,
       "2026-08-02": 63,
       "2026-08-03": 459,
-      "2026-08-05": 1
+      "2026-08-05": 107
     }
   },
   {
@@ -160,17 +160,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "98.53%",
-    "time": 7208,
-    "timeDay": 1242,
-    "timeWeek": 2190,
-    "timeMonth": 6289,
-    "timeYear": 7172,
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "95.32%",
+    "uptimeYear": "98.51%",
+    "time": 7213,
+    "timeDay": 6224,
+    "timeWeek": 3463,
+    "timeMonth": 6454,
+    "timeYear": 7171,
     "dailyMinutesDown": {
       "2026-04-17": 51,
       "2026-04-18": 61,
@@ -237,7 +237,7 @@
       "2026-07-25": 55,
       "2026-07-28": 91,
       "2026-08-03": 145,
-      "2026-08-05": 1
+      "2026-08-05": 107
     }
   }
 ]
