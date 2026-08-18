@@ -6,10 +6,10 @@
     "slug": "web",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "92.31%",
-    "uptimeWeek": "91.46%",
-    "uptimeMonth": "93.69%",
-    "uptimeYear": "98.56%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "91.23%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "98.55%",
     "time": 8531,
     "timeDay": 8957,
     "timeWeek": 11195,
@@ -72,7 +72,7 @@
       "2026-08-13": 313,
       "2026-08-16": 164,
       "2026-08-17": 49,
-      "2026-08-18": 110
+      "2026-08-18": 134
     }
   },
   {
@@ -80,17 +80,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
+    "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "85.92%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "94.73%",
+    "uptimeDay": "84.35%",
+    "uptimeWeek": "91.83%",
+    "uptimeMonth": "94.68%",
     "uptimeYear": "97.42%",
-    "time": 8105,
-    "timeDay": 8061,
-    "timeWeek": 8619,
-    "timeMonth": 7060,
-    "timeYear": 8085,
+    "time": 8109,
+    "timeDay": 9258,
+    "timeWeek": 9014,
+    "timeMonth": 7237,
+    "timeYear": 8090,
     "dailyMinutesDown": {
       "2026-05-05": 116,
       "2026-05-13": 69,
@@ -146,7 +146,7 @@
       "2026-08-13": 229,
       "2026-08-14": 8,
       "2026-08-16": 133,
-      "2026-08-18": 204
+      "2026-08-18": 226
     }
   },
   {
@@ -154,17 +154,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "75.24%",
-    "uptimeWeek": "92.85%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "73.65%",
+    "uptimeWeek": "92.63%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "98.59%",
-    "time": 7219,
-    "timeDay": 6961,
-    "timeWeek": 7272,
-    "timeMonth": 6520,
-    "timeYear": 7167,
+    "time": 7222,
+    "timeDay": 8587,
+    "timeWeek": 7719,
+    "timeMonth": 6718,
+    "timeYear": 7172,
     "dailyMinutesDown": {
       "2026-04-27": 11,
       "2026-04-28": 46,
@@ -230,7 +230,7 @@
       "2026-08-13": 133,
       "2026-08-16": 138,
       "2026-08-17": 35,
-      "2026-08-18": 356
+      "2026-08-18": 379
     }
   }
 ]
