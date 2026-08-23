@@ -78,11 +78,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "89.25%",
-    "uptimeWeek": "93.21%",
-    "uptimeMonth": "94.72%",
-    "uptimeYear": "98.65%",
+    "uptime": "99.08%",
+    "uptimeDay": "84.64%",
+    "uptimeWeek": "92.55%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "98.64%",
     "time": 8086,
     "timeDay": 9789,
     "timeWeek": 8770,
@@ -135,7 +135,7 @@
       "2026-08-19": 124,
       "2026-08-20": 35,
       "2026-08-22": 154,
-      "2026-08-23": 1
+      "2026-08-23": 67
     }
   },
   {
