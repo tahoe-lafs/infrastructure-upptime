@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "94.36%",
-    "uptimeWeek": "92.98%",
+    "uptimeWeek": "93.14%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "98.59%",
     "time": 8517,
     "timeDay": 7373,
-    "timeWeek": 8497,
+    "timeWeek": 8711,
     "timeMonth": 9263,
     "timeYear": 8550,
     "dailyMinutesDown": {
@@ -77,17 +77,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
+    "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "94.51%",
+    "uptimeDay": "85.91%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "94.44%",
     "uptimeYear": "98.65%",
-    "time": 8081,
-    "timeDay": 8559,
-    "timeWeek": 8060,
-    "timeMonth": 7619,
-    "timeYear": 8094,
+    "time": 8079,
+    "timeDay": 8964,
+    "timeWeek": 8162,
+    "timeMonth": 7659,
+    "timeYear": 8095,
     "dailyMinutesDown": {
       "2026-06-04": 195,
       "2026-06-06": 77,
@@ -134,7 +134,7 @@
       "2026-08-19": 124,
       "2026-08-20": 35,
       "2026-08-22": 154,
-      "2026-08-23": 91
+      "2026-08-23": 120
     }
   },
   {
@@ -142,17 +142,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "95.87%",
-    "uptimeYear": "98.59%",
-    "time": 7214,
-    "timeDay": 8411,
-    "timeWeek": 7556,
-    "timeMonth": 7561,
-    "timeYear": 7198,
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "91.79%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "98.58%",
+    "time": 7217,
+    "timeDay": 8725,
+    "timeWeek": 7738,
+    "timeMonth": 7640,
+    "timeYear": 7201,
     "dailyMinutesDown": {
       "2026-05-05": 83,
       "2026-05-08": 26,
@@ -216,7 +216,7 @@
       "2026-08-19": 152,
       "2026-08-20": 112,
       "2026-08-22": 76,
-      "2026-08-23": 1
+      "2026-08-23": 30
     }
   }
 ]
