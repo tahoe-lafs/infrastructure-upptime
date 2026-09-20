@@ -11,7 +11,7 @@
     "uptimeMonth": "93.59%",
     "uptimeYear": "98.39%",
     "time": 8569,
-    "timeDay": 20387,
+    "timeDay": 15598,
     "timeWeek": 11275,
     "timeMonth": 10704,
     "timeYear": 8616,
@@ -85,17 +85,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "95.08%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "98.53%",
-    "time": 8046,
-    "timeDay": 11142,
-    "timeWeek": 7346,
-    "timeMonth": 8224,
-    "timeYear": 8133,
+    "time": 8047,
+    "timeDay": 6084,
+    "timeWeek": 7561,
+    "timeMonth": 8261,
+    "timeYear": 8134,
     "dailyMinutesDown": {
       "2026-06-21": 29,
       "2026-06-22": 127,
@@ -147,7 +147,7 @@
       "2026-09-17": 156,
       "2026-09-19": 43,
       "2026-09-18": 72,
-      "2026-09-20": 1
+      "2026-09-20": 22
     }
   },
   {
@@ -155,17 +155,17 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "68.23%",
-    "uptimeWeek": "92.64%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "98.69%",
-    "time": 7213,
-    "timeDay": 9614,
-    "timeWeek": 9146,
-    "timeMonth": 8117,
-    "timeYear": 7271,
+    "uptimeDay": "66.73%",
+    "uptimeWeek": "92.42%",
+    "uptimeMonth": "95.83%",
+    "uptimeYear": "98.68%",
+    "time": 7216,
+    "timeDay": 8857,
+    "timeWeek": 9390,
+    "timeMonth": 8169,
+    "timeYear": 7273,
     "dailyMinutesDown": {
       "2026-06-04": 69,
       "2026-06-05": 60,
@@ -226,7 +226,7 @@
       "2026-09-01": 144,
       "2026-09-18": 285,
       "2026-09-19": 457,
-      "2026-09-20": 1
+      "2026-09-20": 22
     }
   }
 ]
