@@ -4,19 +4,18 @@
     "url": "https://www.tahoe-lafs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tahoe-lafs.org.ico",
     "slug": "web",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "87.04%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "97.89%",
-    "time": 8423,
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "86.60%",
+    "uptimeWeek": "91.31%",
+    "uptimeMonth": "93.05%",
+    "uptimeYear": "97.92%",
+    "time": 8418,
     "timeDay": 6971,
-    "timeWeek": 15339,
+    "timeWeek": 16351,
     "timeMonth": 14824,
-    "timeYear": 8366,
+    "timeYear": 8382,
     "dailyMinutesDown": {
-      "2026-07-05": 140,
       "2026-07-07": 239,
       "2026-07-08": 58,
       "2026-07-09": 17,
@@ -85,7 +84,7 @@
       "2026-10-22": 116,
       "2026-10-24": 354,
       "2026-10-25": 329,
-      "2026-10-30": 187
+      "2026-10-30": 193
     }
   },
   {
@@ -93,19 +92,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/query",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "87.04%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "98.27%",
-    "time": 7745,
+    "uptimeDay": "86.82%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "98.28%",
+    "time": 7747,
     "timeDay": 6842,
     "timeWeek": 10255,
     "timeMonth": 10902,
-    "timeYear": 7727,
+    "timeYear": 7739,
     "dailyMinutesDown": {
-      "2026-06-26": 56,
+      "2026-06-26": 12,
       "2026-06-27": 303,
       "2026-06-28": 105,
       "2026-06-29": 209,
@@ -161,7 +160,7 @@
       "2026-10-10": 30,
       "2026-10-20": 26,
       "2026-10-28": 261,
-      "2026-10-30": 187
+      "2026-10-30": 190
     }
   },
   {
@@ -169,19 +168,19 @@
     "url": "https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TitleIndex",
     "icon": "https://icons.duckduckgo.com/ip3/tahoe-lafs.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.74%",
-    "uptimeYear": "98.27%",
-    "time": 6776,
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "98.28%",
+    "time": 6779,
     "timeDay": 13636,
     "timeWeek": 11517,
     "timeMonth": 11143,
     "timeYear": 6693,
     "dailyMinutesDown": {
-      "2026-06-19": 109,
+      "2026-06-19": 27,
       "2026-06-20": 124,
       "2026-06-21": 79,
       "2026-06-22": 226,
@@ -241,7 +240,8 @@
       "2026-10-18": 137,
       "2026-10-19": 454,
       "2026-10-20": 190,
-      "2026-10-21": 38
+      "2026-10-21": 38,
+      "2026-10-30": 1
     }
   }
 ]
